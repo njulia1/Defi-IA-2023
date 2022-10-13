@@ -1,0 +1,610 @@
+,index,hotel_id,price,stock,city,date,language,mobile,avatar_id,price.1,stock.1,date.1,language.1,mobile.1,group,brand,parking,pool,children_policy
+0,0,519,208,68,copenhagen,30,french,0,3533.0,208.0,68.0,30.0,french,0.0,,,,,
+1,1,523,85,41,copenhagen,30,french,0,3533.0,85.0,41.0,30.0,french,0.0,,,,,
+2,2,898,86,24,copenhagen,30,french,0,3533.0,86.0,24.0,30.0,french,0.0,,,,,
+3,3,770,210,73,copenhagen,30,french,0,3533.0,210.0,73.0,30.0,french,0.0,,,,,
+4,4,562,215,74,copenhagen,30,french,0,3533.0,215.0,74.0,30.0,french,0.0,,,,,
+5,5,669,203,76,copenhagen,30,french,0,3533.0,203.0,76.0,30.0,french,0.0,,,,,
+6,6,876,131,36,copenhagen,30,french,0,3533.0,131.0,36.0,30.0,french,0.0,,,,,
+7,7,53,96,24,copenhagen,30,french,0,3533.0,96.0,24.0,30.0,french,0.0,,,,,
+8,8,744,173,55,copenhagen,30,french,0,3533.0,173.0,55.0,30.0,french,0.0,,,,,
+9,9,831,92,19,copenhagen,30,french,0,3533.0,92.0,19.0,30.0,french,0.0,,,,,
+10,10,900,192,80,copenhagen,30,french,0,3533.0,192.0,80.0,30.0,french,0.0,,,,,
+11,11,772,304,85,copenhagen,30,french,0,3533.0,304.0,85.0,30.0,french,0.0,,,,,
+12,12,518,117,43,copenhagen,30,french,0,3533.0,117.0,43.0,30.0,french,0.0,,,,,
+13,13,100,91,21,copenhagen,30,french,0,3533.0,91.0,21.0,30.0,french,0.0,,,,,
+14,14,961,187,85,copenhagen,30,french,0,3533.0,187.0,85.0,30.0,french,0.0,,,,,
+15,15,113,89,28,copenhagen,30,french,0,3533.0,89.0,28.0,30.0,french,0.0,,,,,
+16,16,983,88,27,copenhagen,30,french,0,3533.0,88.0,27.0,30.0,french,0.0,,,,,
+17,17,556,182,60,copenhagen,30,french,0,3533.0,182.0,60.0,30.0,french,0.0,,,,,
+18,18,243,97,21,copenhagen,30,french,0,3533.0,97.0,21.0,30.0,french,0.0,,,,,
+19,19,757,134,37,copenhagen,30,french,0,3533.0,134.0,37.0,30.0,french,0.0,,,,,
+20,20,990,164,58,copenhagen,30,french,0,3533.0,164.0,58.0,30.0,french,0.0,,,,,
+21,21,401,182,48,copenhagen,30,french,0,3533.0,182.0,48.0,30.0,french,0.0,,,,,
+22,22,350,308,125,copenhagen,30,french,0,3533.0,308.0,125.0,30.0,french,0.0,,,,,
+23,23,249,87,68,copenhagen,30,french,0,3533.0,87.0,68.0,30.0,french,0.0,,,,,
+24,24,930,117,70,copenhagen,30,french,0,3533.0,117.0,70.0,30.0,french,0.0,,,,,
+25,25,541,129,43,copenhagen,30,french,0,3533.0,129.0,43.0,30.0,french,0.0,,,,,
+26,26,96,129,37,copenhagen,30,french,0,3533.0,129.0,37.0,30.0,french,0.0,,,,,
+27,27,691,85,51,copenhagen,30,french,0,3533.0,85.0,51.0,30.0,french,0.0,,,,,
+28,28,981,98,22,copenhagen,30,french,0,3533.0,98.0,22.0,30.0,french,0.0,,,,,
+29,29,793,167,23,copenhagen,30,french,0,3533.0,167.0,23.0,30.0,french,0.0,,,,,
+30,30,407,216,69,copenhagen,30,french,0,3533.0,216.0,69.0,30.0,french,0.0,,,,,
+31,31,329,231,67,copenhagen,30,french,0,3533.0,231.0,67.0,30.0,french,0.0,,,,,
+32,32,425,190,92,copenhagen,30,french,0,3533.0,190.0,92.0,30.0,french,0.0,,,,,
+33,33,958,223,72,copenhagen,30,french,0,3533.0,223.0,72.0,30.0,french,0.0,,,,,
+34,34,289,125,40,copenhagen,30,french,0,3533.0,125.0,40.0,30.0,french,0.0,,,,,
+35,35,528,280,99,copenhagen,30,french,0,3533.0,280.0,99.0,30.0,french,0.0,,,,,
+36,36,664,295,111,copenhagen,30,french,0,3533.0,295.0,111.0,30.0,french,0.0,,,,,
+37,37,688,87,45,copenhagen,30,french,0,3533.0,87.0,45.0,30.0,french,0.0,,,,,
+38,38,435,302,97,copenhagen,30,french,0,3533.0,302.0,97.0,30.0,french,0.0,,,,,
+39,39,431,128,38,copenhagen,30,french,0,3533.0,128.0,38.0,30.0,french,0.0,,,,,
+40,40,50,133,39,copenhagen,30,french,0,3533.0,133.0,39.0,30.0,french,0.0,,,,,
+41,41,349,226,68,copenhagen,30,french,0,3533.0,226.0,68.0,30.0,french,0.0,,,,,
+42,42,616,177,50,copenhagen,30,french,0,3533.0,177.0,50.0,30.0,french,0.0,,,,,
+43,43,124,277,120,copenhagen,30,french,0,3533.0,277.0,120.0,30.0,french,0.0,,,,,
+44,44,622,127,50,copenhagen,30,french,0,3533.0,127.0,50.0,30.0,french,0.0,,,,,
+45,45,506,126,23,copenhagen,30,french,0,3533.0,126.0,23.0,30.0,french,0.0,,,,,
+46,46,546,88,47,copenhagen,30,french,0,3533.0,88.0,47.0,30.0,french,0.0,,,,,
+47,47,194,123,20,copenhagen,30,french,0,3533.0,123.0,20.0,30.0,french,0.0,,,,,
+48,48,855,192,85,copenhagen,30,french,0,3533.0,192.0,85.0,30.0,french,0.0,,,,,
+49,49,92,88,27,copenhagen,30,french,0,3533.0,88.0,27.0,30.0,french,0.0,,,,,
+50,50,865,288,107,copenhagen,30,french,0,3533.0,288.0,107.0,30.0,french,0.0,,,,,
+51,51,690,206,82,copenhagen,30,french,0,3533.0,206.0,82.0,30.0,french,0.0,,,,,
+52,52,829,187,56,copenhagen,30,french,0,3533.0,187.0,56.0,30.0,french,0.0,,,,,
+53,53,481,97,21,copenhagen,30,french,0,3533.0,97.0,21.0,30.0,french,0.0,,,,,
+54,54,402,134,38,copenhagen,30,french,0,3533.0,134.0,38.0,30.0,french,0.0,,,,,
+55,55,514,266,129,copenhagen,30,french,0,3533.0,266.0,129.0,30.0,french,0.0,,,,,
+56,56,869,293,98,copenhagen,30,french,0,3533.0,293.0,98.0,30.0,french,0.0,,,,,
+57,57,572,206,64,copenhagen,30,french,0,3533.0,206.0,64.0,30.0,french,0.0,,,,,
+58,58,726,278,103,copenhagen,30,french,0,3533.0,278.0,103.0,30.0,french,0.0,,,,,
+59,59,959,196,74,copenhagen,30,french,0,3533.0,196.0,74.0,30.0,french,0.0,,,,,
+60,60,611,182,56,copenhagen,30,french,0,3533.0,182.0,56.0,30.0,french,0.0,,,,,
+61,61,894,301,105,copenhagen,30,french,0,3533.0,301.0,105.0,30.0,french,0.0,,,,,
+62,62,539,277,117,copenhagen,30,french,0,3533.0,277.0,117.0,30.0,french,0.0,,,,,
+63,63,433,117,45,copenhagen,30,french,0,3533.0,117.0,45.0,30.0,french,0.0,,,,,
+64,64,812,185,48,copenhagen,30,french,0,3533.0,185.0,48.0,30.0,french,0.0,,,,,
+65,65,300,124,38,copenhagen,30,french,0,3533.0,124.0,38.0,30.0,french,0.0,,,,,
+66,66,547,180,50,copenhagen,30,french,0,3533.0,180.0,50.0,30.0,french,0.0,,,,,
+67,67,716,133,40,copenhagen,30,french,0,3533.0,133.0,40.0,30.0,french,0.0,,,,,
+68,68,994,163,62,copenhagen,30,french,0,3533.0,163.0,62.0,30.0,french,0.0,,,,,
+69,69,463,101,18,copenhagen,30,french,0,3533.0,101.0,18.0,30.0,french,0.0,,,,,
+70,70,6,120,49,copenhagen,30,french,0,3533.0,120.0,49.0,30.0,french,0.0,,,,,
+71,71,358,198,73,copenhagen,30,french,0,3533.0,198.0,73.0,30.0,french,0.0,,,,,
+72,72,391,177,54,copenhagen,30,french,0,3533.0,177.0,54.0,30.0,french,0.0,,,,,
+73,73,99,187,46,copenhagen,30,french,0,3533.0,187.0,46.0,30.0,french,0.0,,,,,
+74,74,91,129,20,copenhagen,30,french,0,3533.0,129.0,20.0,30.0,french,0.0,,,,,
+75,75,487,173,62,copenhagen,30,french,0,3533.0,173.0,62.0,30.0,french,0.0,,,,,
+76,76,422,301,102,copenhagen,30,french,0,3533.0,301.0,102.0,30.0,french,0.0,,,,,
+77,77,655,280,111,copenhagen,30,french,0,3533.0,280.0,111.0,30.0,french,0.0,,,,,
+78,78,908,326,92,copenhagen,30,french,0,3533.0,326.0,92.0,30.0,french,0.0,,,,,
+79,79,638,159,63,copenhagen,30,french,0,3533.0,159.0,63.0,30.0,french,0.0,,,,,
+80,80,952,96,22,copenhagen,30,french,0,3533.0,96.0,22.0,30.0,french,0.0,,,,,
+81,81,434,106,18,copenhagen,30,french,0,3533.0,106.0,18.0,30.0,french,0.0,,,,,
+82,82,893,213,69,copenhagen,30,french,0,3533.0,213.0,69.0,30.0,french,0.0,,,,,
+83,83,624,208,75,copenhagen,30,french,0,3533.0,208.0,75.0,30.0,french,0.0,,,,,
+84,84,532,213,76,copenhagen,30,french,0,3533.0,213.0,76.0,30.0,french,0.0,,,,,
+85,85,443,119,52,copenhagen,30,french,0,3533.0,119.0,52.0,30.0,french,0.0,,,,,
+86,86,78,277,93,copenhagen,30,french,0,3533.0,277.0,93.0,30.0,french,0.0,,,,,
+87,87,830,91,51,copenhagen,30,french,0,3533.0,91.0,51.0,30.0,french,0.0,,,,,
+88,88,43,83,62,copenhagen,30,french,0,3533.0,83.0,62.0,30.0,french,0.0,,,,,
+89,89,727,126,19,copenhagen,30,french,0,3533.0,126.0,19.0,30.0,french,0.0,,,,,
+90,90,365,96,23,copenhagen,30,french,0,3533.0,96.0,23.0,30.0,french,0.0,,,,,
+91,91,405,101,22,copenhagen,30,french,0,3533.0,101.0,22.0,30.0,french,0.0,,,,,
+92,92,761,124,47,copenhagen,30,french,0,3533.0,124.0,47.0,30.0,french,0.0,,,,,
+93,93,60,94,23,copenhagen,30,french,0,3533.0,94.0,23.0,30.0,french,0.0,,,,,
+94,94,36,201,44,copenhagen,30,french,0,3533.0,201.0,44.0,30.0,french,0.0,,,,,
+95,95,995,196,72,copenhagen,30,french,0,3533.0,196.0,72.0,30.0,french,0.0,,,,,
+96,96,826,204,83,copenhagen,30,french,0,3533.0,204.0,83.0,30.0,french,0.0,,,,,
+97,97,938,124,26,copenhagen,30,french,0,3533.0,124.0,26.0,30.0,french,0.0,,,,,
+98,98,844,281,108,copenhagen,30,french,0,3533.0,281.0,108.0,30.0,french,0.0,,,,,
+99,99,90,171,56,copenhagen,30,french,0,3533.0,171.0,56.0,30.0,french,0.0,,,,,
+100,100,707,299,103,copenhagen,30,french,0,3533.0,299.0,103.0,30.0,french,0.0,,,,,
+101,101,202,162,52,copenhagen,30,french,0,3533.0,162.0,52.0,30.0,french,0.0,,,,,
+102,102,251,171,21,copenhagen,30,french,0,3533.0,171.0,21.0,30.0,french,0.0,,,,,
+103,103,291,196,79,copenhagen,30,french,0,3533.0,196.0,79.0,30.0,french,0.0,,,,,
+104,104,267,180,58,copenhagen,30,french,0,3533.0,180.0,58.0,30.0,french,0.0,,,,,
+105,105,720,280,118,copenhagen,30,french,0,3533.0,280.0,118.0,30.0,french,0.0,,,,,
+106,106,309,98,44,copenhagen,30,french,0,3533.0,98.0,44.0,30.0,french,0.0,,,,,
+107,107,58,211,65,copenhagen,30,french,0,3533.0,211.0,65.0,30.0,french,0.0,,,,,
+108,108,559,204,74,copenhagen,30,french,0,3533.0,204.0,74.0,30.0,french,0.0,,,,,
+109,109,110,173,51,copenhagen,30,french,0,3533.0,173.0,51.0,30.0,french,0.0,,,,,
+110,110,445,93,22,copenhagen,30,french,0,3533.0,93.0,22.0,30.0,french,0.0,,,,,
+111,111,531,182,53,copenhagen,30,french,0,3533.0,182.0,53.0,30.0,french,0.0,,,,,
+112,112,23,170,56,copenhagen,30,french,0,3533.0,170.0,56.0,30.0,french,0.0,,,,,
+113,113,695,180,50,copenhagen,30,french,0,3533.0,180.0,50.0,30.0,french,0.0,,,,,
+114,114,280,122,64,copenhagen,30,french,0,3533.0,122.0,64.0,30.0,french,0.0,,,,,
+115,115,508,203,78,copenhagen,30,french,0,3533.0,203.0,78.0,30.0,french,0.0,,,,,
+116,116,318,141,36,copenhagen,30,french,0,3533.0,141.0,36.0,30.0,french,0.0,,,,,
+117,117,1,99,39,copenhagen,30,french,0,3533.0,99.0,39.0,30.0,french,0.0,,,,,
+118,118,973,178,54,copenhagen,30,french,0,3533.0,178.0,54.0,30.0,french,0.0,,,,,
+119,119,497,210,71,copenhagen,30,french,0,3533.0,210.0,71.0,30.0,french,0.0,,,,,
+120,120,805,165,74,copenhagen,30,french,0,3533.0,165.0,74.0,30.0,french,0.0,,,,,
+121,121,818,180,44,copenhagen,30,french,0,3533.0,180.0,44.0,30.0,french,0.0,,,,,
+122,122,834,95,16,copenhagen,30,french,0,3533.0,95.0,16.0,30.0,french,0.0,,,,,
+123,123,153,216,66,copenhagen,30,french,0,3533.0,216.0,66.0,30.0,french,0.0,,,,,
+124,124,711,135,38,copenhagen,30,french,0,3533.0,135.0,38.0,30.0,french,0.0,,,,,
+125,125,872,97,27,copenhagen,30,french,0,3533.0,97.0,27.0,30.0,french,0.0,,,,,
+126,126,319,298,116,copenhagen,30,french,0,3533.0,298.0,116.0,30.0,french,0.0,,,,,
+127,127,849,162,52,copenhagen,30,french,0,3533.0,162.0,52.0,30.0,french,0.0,,,,,
+128,128,32,182,57,copenhagen,30,french,0,3533.0,182.0,57.0,30.0,french,0.0,,,,,
+129,129,142,316,115,copenhagen,30,french,0,3533.0,316.0,115.0,30.0,french,0.0,,,,,
+130,130,922,231,63,copenhagen,30,french,0,3533.0,231.0,63.0,30.0,french,0.0,,,,,
+131,131,766,304,102,copenhagen,30,french,0,3533.0,304.0,102.0,30.0,french,0.0,,,,,
+132,132,989,93,22,copenhagen,30,french,0,3533.0,93.0,22.0,30.0,french,0.0,,,,,
+133,133,122,290,120,copenhagen,30,french,0,3533.0,290.0,120.0,30.0,french,0.0,,,,,
+134,134,596,177,40,copenhagen,30,french,0,3533.0,177.0,40.0,30.0,french,0.0,,,,,
+135,135,698,198,74,copenhagen,30,french,0,3533.0,198.0,74.0,30.0,french,0.0,,,,,
+136,136,951,87,47,copenhagen,30,french,0,3533.0,87.0,47.0,30.0,french,0.0,,,,,
+137,137,348,162,76,copenhagen,30,french,0,3533.0,162.0,76.0,30.0,french,0.0,,,,,
+138,138,771,299,109,copenhagen,30,french,0,3533.0,299.0,109.0,30.0,french,0.0,,,,,
+139,139,332,208,86,copenhagen,30,french,0,3533.0,208.0,86.0,30.0,french,0.0,,,,,
+140,140,978,299,120,copenhagen,30,french,0,3533.0,299.0,120.0,30.0,french,0.0,,,,,
+141,141,335,91,46,copenhagen,30,french,0,3533.0,91.0,46.0,30.0,french,0.0,,,,,
+142,142,385,283,101,copenhagen,30,french,0,3533.0,283.0,101.0,30.0,french,0.0,,,,,
+143,143,367,96,24,copenhagen,30,french,0,3533.0,96.0,24.0,30.0,french,0.0,,,,,
+0,519,519,208,68,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+1,523,523,85,41,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+2,898,898,86,24,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,1.0,0.0,0.0
+3,770,770,210,73,copenhagen,30,french,0,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+4,562,562,215,74,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,0.0
+5,669,669,203,76,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+6,876,876,131,36,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+7,53,53,96,24,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+8,744,744,173,55,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+9,831,831,92,19,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+10,900,900,192,80,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+11,772,772,304,85,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+12,518,518,117,43,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+13,100,100,91,21,copenhagen,30,french,0,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+14,961,961,187,85,copenhagen,30,french,0,,,,,,,Morriott International,Morriot,0.0,1.0,0.0
+15,113,113,89,28,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+16,983,983,88,27,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+17,556,556,182,60,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+18,243,243,97,21,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,1.0,0.0,0.0
+19,757,757,134,37,copenhagen,30,french,0,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+20,990,990,164,58,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+21,401,401,182,48,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+22,350,350,308,125,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,0.0
+23,249,249,87,68,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+24,930,930,117,70,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+25,541,541,129,43,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+26,96,96,129,37,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+27,691,691,85,51,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+28,981,981,98,22,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+29,793,793,167,23,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+30,407,407,216,69,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,0.0,1.0,0.0
+31,329,329,231,67,copenhagen,30,french,0,,,,,,,Morriott International,Morriot,1.0,0.0,0.0
+32,425,425,190,92,copenhagen,30,french,0,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+33,958,958,223,72,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+34,289,289,125,40,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+35,528,528,280,99,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+36,664,664,295,111,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+37,688,688,87,45,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,1.0
+38,435,435,302,97,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,1.0,0.0
+39,431,431,128,38,copenhagen,30,french,0,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+40,50,50,133,39,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+41,349,349,226,68,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,0.0
+42,616,616,177,50,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+43,124,124,277,120,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+44,622,622,127,50,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+45,506,506,126,23,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+46,546,546,88,47,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+47,194,194,123,20,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+48,855,855,192,85,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+49,92,92,88,27,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+50,865,865,288,107,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,0.0
+51,690,690,206,82,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+52,829,829,187,56,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+53,481,481,97,21,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+54,402,402,134,38,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+55,514,514,266,129,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+56,869,869,293,98,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+57,572,572,206,64,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+58,726,726,278,103,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+59,959,959,196,74,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+60,611,611,182,56,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Tripletree,1.0,0.0,0.0
+61,894,894,301,105,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,0.0,2.0
+62,539,539,277,117,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+63,433,433,117,45,copenhagen,30,french,0,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+64,812,812,185,48,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+65,300,300,124,38,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+66,547,547,180,50,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+67,716,716,133,40,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+68,994,994,163,62,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+69,463,463,101,18,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+70,6,6,120,49,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+71,358,358,198,73,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+72,391,391,177,54,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+73,99,99,187,46,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,0.0,1.0,0.0
+74,91,91,129,20,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+75,487,487,173,62,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+76,422,422,301,102,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+77,655,655,280,111,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,0.0,1.0
+78,908,908,326,92,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+79,638,638,159,63,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+80,952,952,96,22,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+81,434,434,106,18,copenhagen,30,french,0,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+82,893,893,213,69,copenhagen,30,french,0,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+83,624,624,208,75,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,0.0,1.0,0.0
+84,532,532,213,76,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+85,443,443,119,52,copenhagen,30,french,0,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+86,78,78,277,93,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,0.0,0.0
+87,830,830,91,51,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+88,43,43,83,62,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+89,727,727,126,19,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+90,365,365,96,23,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+91,405,405,101,22,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,1.0,0.0,0.0
+92,761,761,124,47,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+93,60,60,94,23,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+94,36,36,201,44,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+95,995,995,196,72,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,0.0
+96,826,826,204,83,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+97,938,938,124,26,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+98,844,844,281,108,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+99,90,90,171,56,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+100,707,707,299,103,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+101,202,202,162,52,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+102,251,251,171,21,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+103,291,291,196,79,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+104,267,267,180,58,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+105,720,720,280,118,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,0.0,2.0
+106,309,309,98,44,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+107,58,58,211,65,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,2.0
+108,559,559,204,74,copenhagen,30,french,0,,,,,,,Accar Hotels,Marcure,0.0,0.0,2.0
+109,110,110,173,51,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+110,445,445,93,22,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+111,531,531,182,53,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+112,23,23,170,56,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+113,695,695,180,50,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+114,280,280,122,64,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+115,508,508,203,78,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+116,318,318,141,36,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+117,1,1,99,39,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+118,973,973,178,54,copenhagen,30,french,0,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+119,497,497,210,71,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,2.0
+120,805,805,165,74,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+121,818,818,180,44,copenhagen,30,french,0,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+122,834,834,95,16,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+123,153,153,216,66,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,2.0
+124,711,711,135,38,copenhagen,30,french,0,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+125,872,872,97,27,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+126,319,319,298,116,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,0.0,0.0
+127,849,849,162,52,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+128,32,32,182,57,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+129,142,142,316,115,copenhagen,30,french,0,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+130,922,922,231,63,copenhagen,30,french,0,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,0.0
+131,766,766,304,102,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+132,989,989,93,22,copenhagen,30,french,0,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+133,122,122,290,120,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,1.0,1.0
+134,596,596,177,40,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+135,698,698,198,74,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,0.0
+136,951,951,87,47,copenhagen,30,french,0,,,,,,,Independant,Independant,1.0,0.0,0.0
+137,348,348,162,76,copenhagen,30,french,0,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+138,771,771,299,109,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+139,332,332,208,86,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+140,978,978,299,120,copenhagen,30,french,0,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,0.0,0.0
+141,335,335,91,46,copenhagen,30,french,0,,,,,,,Independant,Independant,0.0,0.0,0.0
+142,385,385,283,101,copenhagen,30,french,0,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+143,367,367,96,24,copenhagen,30,french,0,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+0,238,238,172,57,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+1,225,225,178,48,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+2,133,133,171,49,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+3,306,306,203,72,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,1.0,0.0
+4,912,912,178,34,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+5,216,216,209,79,paris,30,swedish,1,,,,,,,Morriott International,Morriot,1.0,0.0,0.0
+6,937,937,200,73,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+7,229,229,188,72,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+8,492,492,119,47,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+9,785,785,210,61,paris,30,swedish,1,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+10,199,199,212,71,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+11,700,700,192,118,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+12,708,708,167,56,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+13,998,998,200,76,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+14,254,254,174,58,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+15,359,359,132,40,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+16,734,734,132,44,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+17,629,629,94,49,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+18,656,656,126,42,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+19,631,631,90,19,paris,30,swedish,1,,,,,,,Yin Yang,8 Premium,1.0,0.0,0.0
+20,972,972,89,21,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+21,41,41,126,40,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+22,259,259,127,34,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+23,723,723,85,23,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+24,148,148,124,44,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+25,756,756,207,74,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+26,911,911,122,55,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+27,558,558,91,19,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+28,447,447,120,45,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,1.0
+29,24,24,264,139,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+30,866,866,284,118,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+31,792,792,92,50,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+32,338,338,212,74,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+33,94,94,271,150,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+34,415,415,126,41,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+35,299,299,122,48,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+36,222,222,283,111,paris,30,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+37,69,69,273,162,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+38,868,868,185,84,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,1.0
+39,823,823,203,74,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+40,731,731,181,54,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+41,980,980,124,43,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+42,14,14,163,53,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+43,577,577,181,50,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,1.0,1.0
+44,903,903,92,51,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+45,986,986,200,75,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+46,767,767,175,56,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+47,645,645,170,54,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,1.0
+48,522,522,123,46,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+49,735,735,126,41,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+50,742,742,281,105,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+51,123,123,120,42,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+52,484,484,127,41,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+53,863,863,272,120,paris,30,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,1.0,0.0
+54,584,584,300,110,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+55,948,948,200,81,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+56,66,66,150,64,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+57,274,274,170,52,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+58,963,963,120,51,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+59,564,564,99,19,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+60,182,182,165,64,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+61,992,992,90,21,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+62,580,580,132,37,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+63,248,248,203,74,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+64,192,192,126,23,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+65,308,308,209,74,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,0.0
+66,684,684,87,24,paris,30,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+67,62,62,85,23,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+68,188,188,92,28,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+69,421,421,135,44,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+70,176,176,93,9,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+71,305,305,165,56,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+72,825,825,175,56,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+73,776,776,172,44,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+74,162,162,292,118,paris,30,swedish,1,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+75,412,412,287,146,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+76,449,449,197,77,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,0.0
+77,56,56,216,71,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+78,837,837,274,116,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+79,21,21,85,27,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+80,571,571,296,105,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+81,614,614,95,21,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+82,741,741,183,52,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+83,975,975,179,55,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+84,790,790,295,100,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+85,392,392,176,64,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,1.0,1.0
+86,342,342,122,25,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+87,339,339,213,71,paris,30,swedish,1,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+88,207,207,178,57,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,1.0
+89,579,579,86,26,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+90,95,95,283,118,paris,30,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+91,705,705,144,38,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+92,858,858,206,74,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,0.0
+93,314,314,127,40,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,1.0
+94,736,736,200,76,paris,30,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+95,379,379,295,110,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+96,27,27,272,132,paris,30,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+97,65,65,164,60,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+98,576,576,219,69,paris,30,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+99,327,327,228,69,paris,30,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+100,663,663,168,60,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+101,595,595,167,54,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+102,130,130,206,75,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+103,115,115,116,59,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+104,617,617,304,116,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+105,647,647,127,38,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+106,419,419,120,48,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+107,634,634,94,21,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+108,795,795,179,52,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+109,290,290,178,48,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+110,467,467,276,112,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+111,885,885,185,54,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+112,474,474,161,52,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+113,946,946,210,72,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+114,323,323,292,121,paris,30,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,0.0
+115,853,853,175,49,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,1.0,0.0,0.0
+116,640,640,179,50,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+117,602,602,117,26,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+118,540,540,296,107,paris,30,swedish,1,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+119,121,121,85,28,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+120,817,817,221,68,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+121,612,612,192,81,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,1.0,0.0
+122,534,534,284,108,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+123,0,0,195,83,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,1.0
+124,227,227,87,25,paris,30,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+125,257,257,175,51,paris,30,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+126,842,842,312,98,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+127,797,797,124,50,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+128,560,560,166,60,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+129,436,436,267,151,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+130,949,949,293,109,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+131,782,782,287,133,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+132,119,119,197,77,paris,30,swedish,1,,,,,,,Morriott International,Morriot,1.0,0.0,0.0
+133,17,17,88,26,paris,30,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+134,331,331,95,40,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+135,582,582,212,73,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,0.0
+136,526,526,300,111,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+137,882,882,197,74,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+138,28,28,140,41,paris,30,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,1.0
+139,150,150,201,78,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+140,573,573,323,115,paris,30,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,1.0
+141,599,599,112,59,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+142,970,970,273,129,paris,30,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,0.0,2.0
+143,926,926,195,80,paris,30,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+144,884,884,198,76,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+145,851,851,90,48,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+146,748,748,190,99,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+147,49,49,170,71,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+148,738,738,127,46,paris,30,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+149,808,808,286,100,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+150,942,942,203,67,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,1.0,0.0
+151,889,889,162,54,paris,30,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+152,910,910,91,28,paris,30,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+153,722,722,171,50,paris,30,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+154,165,165,164,64,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+155,29,29,207,74,paris,30,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+156,477,477,88,56,paris,30,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+157,509,509,96,17,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+158,159,159,206,75,paris,30,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,0.0,0.0
+159,803,803,307,104,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+160,301,301,124,39,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+161,132,132,280,118,paris,30,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+162,841,841,85,48,paris,30,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+163,397,397,287,100,paris,30,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+164,357,357,175,50,paris,30,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+0,254,254,170,82,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+1,980,980,118,64,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+2,614,614,93,32,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+3,148,148,123,60,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+4,656,656,115,64,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+5,790,790,282,151,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+6,41,41,120,60,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+7,56,56,197,111,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+8,599,599,111,74,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+9,731,731,174,74,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+10,17,17,88,35,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+11,797,797,124,70,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+12,645,645,170,78,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,1.0
+13,617,617,303,152,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+14,736,736,200,110,paris,35,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+15,663,663,161,84,paris,35,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+16,339,339,205,108,paris,35,swedish,1,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+17,756,756,206,102,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,1.0,0.0
+18,331,331,91,60,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+19,986,986,200,113,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+20,837,837,261,161,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+21,415,415,126,62,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+22,577,577,174,75,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,1.0,1.0
+23,564,564,99,31,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+24,121,121,84,37,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+25,817,817,203,103,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,1.0,0.0
+26,216,216,200,108,paris,35,swedish,1,,,,,,,Morriott International,Morriot,1.0,0.0,0.0
+27,808,808,274,145,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+28,392,392,175,81,paris,35,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,1.0,1.0
+29,803,803,295,154,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+30,560,560,165,78,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+31,571,571,271,153,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+32,119,119,188,117,paris,35,swedish,1,,,,,,,Morriott International,Morriot,1.0,0.0,0.0
+33,842,842,311,143,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+34,963,963,120,66,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+35,522,522,117,63,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+36,229,229,188,110,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+37,257,257,174,73,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+38,582,582,203,111,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,0.0
+39,308,308,209,103,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,0.0,0.0
+40,863,863,271,173,paris,35,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,1.0,0.0
+41,115,115,116,72,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+42,741,741,183,76,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+43,998,998,200,115,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+44,24,24,264,188,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+45,323,323,291,155,paris,35,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,0.0
+46,49,49,170,88,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+47,314,314,124,62,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,1.0
+48,338,338,203,102,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+49,359,359,126,59,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+50,176,176,93,25,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+51,576,576,201,102,paris,35,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+52,942,942,194,102,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,1.0,0.0
+53,299,299,117,76,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+54,62,62,83,34,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+55,868,868,184,114,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,1.0,1.0
+56,723,723,83,33,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+57,199,199,212,104,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+58,207,207,178,81,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,1.0
+59,767,767,174,74,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+60,705,705,132,60,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,1.0,0.0,0.0
+61,926,926,186,113,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+62,825,825,174,80,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+63,225,225,170,74,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+64,629,629,94,65,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+65,248,248,186,108,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+66,634,634,89,33,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+67,29,29,197,109,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,0.0,0.0
+68,734,734,126,61,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+69,640,640,164,70,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+70,580,580,126,56,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+71,274,274,162,76,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+72,14,14,162,68,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+73,795,795,179,78,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+74,132,132,267,155,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+75,290,290,178,73,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+76,306,306,203,105,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,1.0,0.0
+77,631,631,87,32,paris,35,swedish,1,,,,,,,Yin Yang,8 Premium,1.0,0.0,0.0
+78,949,949,292,151,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,1.0,0.0
+79,477,477,85,84,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+80,841,841,84,70,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+81,776,776,172,77,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,1.0,0.0,0.0
+82,708,708,167,74,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+83,584,584,275,165,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+84,159,159,188,116,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,1.0,0.0,0.0
+85,722,722,164,74,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,1.0,0.0,0.0
+86,492,492,119,68,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+87,885,885,184,74,paris,35,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+88,782,782,287,169,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+89,133,133,171,76,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+90,910,910,90,35,paris,35,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+91,972,972,85,31,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+92,602,602,115,37,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+93,95,95,270,174,paris,35,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+94,227,227,87,32,paris,35,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+95,342,342,122,35,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+96,540,540,284,158,paris,35,swedish,1,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+97,66,66,150,88,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+98,467,467,276,153,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+99,912,912,178,73,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+100,970,970,272,171,paris,35,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,0.0,0.0,2.0
+101,188,188,92,36,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+102,858,858,188,110,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,0.0
+103,853,853,159,78,paris,35,swedish,1,,,,,,,Chillton Worldwide,Tripletree,1.0,0.0,0.0
+104,65,65,163,84,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+105,573,573,322,149,paris,35,swedish,1,,,,,,,Chillton Worldwide,Chill Garden Inn,1.0,1.0,1.0
+106,975,975,172,72,paris,35,swedish,1,,,,,,,Yin Yang,Ardisson,0.0,0.0,0.0
+107,182,182,164,90,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,1.0,0.0,0.0
+108,700,700,192,136,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+109,851,851,89,69,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+110,379,379,282,162,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+111,259,259,122,53,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+112,397,397,287,156,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,1.0,0.0
+113,684,684,87,32,paris,35,swedish,1,,,,,,,Yin Yang,8 Premium,0.0,0.0,0.0
+114,28,28,135,60,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,1.0
+115,150,150,201,105,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+116,946,946,201,104,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+117,222,222,270,150,paris,35,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+118,357,357,167,74,paris,35,swedish,1,,,,,,,Boss Western,J.Halliday Inn,0.0,0.0,0.0
+119,412,412,287,176,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,0.0,0.0
+120,69,69,272,194,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+121,785,785,192,102,paris,35,swedish,1,,,,,,,Morriott International,Morriot,1.0,1.0,0.0
+122,130,130,196,104,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+123,162,162,291,150,paris,35,swedish,1,,,,,,,Morriott International,Corlton,1.0,1.0,0.0
+124,866,866,271,171,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+125,192,192,123,33,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+126,884,884,190,111,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+127,738,738,121,66,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,0.0,0.0,0.0
+128,123,123,120,60,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+129,27,27,271,169,paris,35,swedish,1,,,,,,,Morriott International,Corlton,1.0,0.0,0.0
+130,558,558,90,31,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,1.0,0.0,0.0
+131,742,742,268,149,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,1.0,1.0,0.0
+132,792,792,89,76,paris,35,swedish,1,,,,,,,Independant,Independant,0.0,0.0,0.0
+133,327,327,210,102,paris,35,swedish,1,,,,,,,Morriott International,Morriot,0.0,0.0,0.0
+134,937,937,191,104,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,0.0,0.0,0.0
+135,419,419,115,67,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,0.0
+136,889,889,162,78,paris,35,swedish,1,,,,,,,Chillton Worldwide,Tripletree,0.0,0.0,0.0
+137,748,748,190,129,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,0.0,0.0,0.0
+138,21,21,85,36,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+139,447,447,115,66,paris,35,swedish,1,,,,,,,Accar Hotels,Navatel,1.0,0.0,1.0
+140,595,595,159,84,paris,35,swedish,1,,,,,,,Morriott International,CourtYord,0.0,0.0,0.0
+141,0,0,186,106,paris,35,swedish,1,,,,,,,Yin Yang,Royal Lotus,1.0,0.0,1.0
+142,436,436,267,187,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+143,94,94,270,193,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+144,534,534,271,160,paris,35,swedish,1,,,,,,,Morriott International,Corlton,0.0,0.0,0.0
+145,823,823,194,106,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+146,165,165,163,86,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+147,911,911,121,75,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+148,612,612,192,111,paris,35,swedish,1,,,,,,,Chillton Worldwide,Quadrupletree,0.0,1.0,0.0
+149,421,421,124,64,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
+150,579,579,86,35,paris,35,swedish,1,,,,,,,Accar Hotels,Ibas,0.0,0.0,0.0
+151,948,948,200,113,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+152,903,903,92,72,paris,35,swedish,1,,,,,,,Independant,Independant,1.0,0.0,0.0
+153,526,526,287,155,paris,35,swedish,1,,,,,,,Accar Hotels,Safitel,0.0,0.0,0.0
+154,882,882,196,110,paris,35,swedish,1,,,,,,,Accar Hotels,Marcure,1.0,1.0,0.0
+155,735,735,120,59,paris,35,swedish,1,,,,,,,Boss Western,Boss Western,0.0,0.0,0.0
