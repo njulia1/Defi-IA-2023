@@ -1,0 +1,929 @@
+hotel_id,group,brand,city,parking,pool,children_policy,price,stock,date,language,mobile,avatar_name,order_requests
+529,Morriott International,Corlton,amsterdam,1,0,1,222,184,37,croatian,0,larouste,1
+346,Chillton Worldwide,Quadrupletree,amsterdam,1,0,0,168,125,37,croatian,0,larouste,1
+925,Boss Western,Boss Western,amsterdam,1,0,0,99,73,37,croatian,0,larouste,1
+921,Independant,Independant,amsterdam,0,0,0,72,83,37,croatian,0,larouste,1
+821,Independant,Independant,amsterdam,0,0,0,105,74,37,croatian,0,larouste,1
+253,Accar Hotels,Safitel,amsterdam,0,1,2,238,165,37,croatian,0,larouste,1
+45,Yin Yang,Ardisson,amsterdam,0,0,0,147,88,37,croatian,0,larouste,1
+410,Accar Hotels,Navatel,amsterdam,0,0,0,106,68,37,croatian,0,larouste,1
+760,Yin Yang,Royal Lotus,amsterdam,0,0,0,164,133,37,croatian,0,larouste,1
+193,Independant,Independant,amsterdam,0,0,0,141,77,37,croatian,0,larouste,1
+967,Independant,Independant,amsterdam,1,0,0,74,94,37,croatian,0,larouste,1
+630,Boss Western,J.Halliday Inn,amsterdam,0,0,0,146,98,37,croatian,0,larouste,1
+902,Yin Yang,Royal Lotus,amsterdam,1,1,0,168,135,37,croatian,0,larouste,1
+172,Accar Hotels,Navatel,amsterdam,1,0,0,113,65,37,croatian,0,larouste,1
+230,Boss Western,Boss Western,amsterdam,1,0,0,102,69,37,croatian,0,larouste,1
+724,Morriott International,Corlton,amsterdam,1,0,0,236,172,37,croatian,0,larouste,1
+417,Morriott International,CourtYord,amsterdam,0,0,0,141,98,37,croatian,0,larouste,1
+10,Chillton Worldwide,Tripletree,amsterdam,0,0,0,154,88,37,croatian,0,larouste,1
+752,Accar Hotels,Safitel,amsterdam,0,0,0,236,183,37,croatian,0,larouste,1
+743,Morriott International,CourtYord,amsterdam,1,1,0,144,86,37,croatian,0,larouste,1
+581,Independant,Independant,amsterdam,1,0,0,148,38,37,croatian,0,larouste,1
+969,Accar Hotels,Ibas,amsterdam,1,0,0,77,42,37,croatian,0,larouste,1
+570,Independant,Independant,amsterdam,1,0,0,100,73,37,croatian,0,larouste,1
+88,Boss Western,Boss Western,amsterdam,0,0,0,113,68,37,croatian,0,larouste,1
+460,Accar Hotels,Ibas,amsterdam,0,0,0,84,36,37,croatian,0,larouste,1
+441,Yin Yang,Royal Lotus,amsterdam,0,0,0,177,120,37,croatian,0,larouste,1
+807,Chillton Worldwide,Chill Garden Inn,amsterdam,0,1,0,248,174,37,croatian,0,larouste,1
+567,Independant,Independant,amsterdam,1,0,0,72,36,37,croatian,0,larouste,1
+212,Yin Yang,Royal Lotus,amsterdam,0,1,0,173,120,37,croatian,0,larouste,1
+515,Accar Hotels,Safitel,amsterdam,1,1,0,250,175,37,croatian,0,larouste,1
+916,Boss Western,Boss Western,amsterdam,1,0,0,105,71,37,croatian,0,larouste,1
+835,Independant,Independant,amsterdam,0,0,0,104,78,37,croatian,0,larouste,1
+387,Accar Hotels,Safitel,amsterdam,1,0,0,232,184,37,croatian,0,larouste,1
+585,Yin Yang,8 Premium,amsterdam,0,0,0,76,38,37,croatian,0,larouste,1
+12,Independant,Independant,amsterdam,0,0,0,76,35,37,croatian,0,larouste,1
+945,Chillton Worldwide,Tripletree,amsterdam,0,0,0,143,102,37,croatian,0,larouste,1
+77,Accar Hotels,Safitel,amsterdam,0,1,0,248,171,37,croatian,0,larouste,1
+762,Yin Yang,Ardisson,amsterdam,1,1,0,151,85,37,croatian,0,larouste,1
+16,Chillton Worldwide,Tripletree,amsterdam,1,0,0,154,80,37,croatian,0,larouste,1
+604,Accar Hotels,Navatel,amsterdam,1,0,0,108,69,37,croatian,0,larouste,1
+224,Yin Yang,Ardisson,amsterdam,1,0,0,138,88,37,croatian,0,larouste,1
+685,Morriott International,Corlton,amsterdam,0,0,1,238,173,37,croatian,0,larouste,1
+892,Chillton Worldwide,Quadrupletree,amsterdam,0,1,0,175,122,37,croatian,0,larouste,1
+430,Yin Yang,Royal Lotus,amsterdam,0,0,0,160,136,37,croatian,0,larouste,1
+82,Independant,Independant,amsterdam,0,0,0,106,72,37,croatian,0,larouste,1
+111,Boss Western,Boss Western,amsterdam,1,0,0,106,69,37,croatian,0,larouste,1
+660,Chillton Worldwide,Tripletree,amsterdam,0,0,0,144,80,37,croatian,0,larouste,1
+196,Independant,Independant,amsterdam,1,0,0,105,36,37,croatian,0,larouste,1
+256,Accar Hotels,Ibas,amsterdam,1,0,0,78,37,37,croatian,0,larouste,1
+777,Yin Yang,Ardisson,amsterdam,0,0,0,143,98,37,croatian,0,larouste,1
+9,Independant,Independant,amsterdam,0,0,0,82,90,37,croatian,0,larouste,1
+373,Boss Western,Boss Western,amsterdam,1,0,0,105,73,37,croatian,0,larouste,1
+878,Independant,Independant,amsterdam,1,0,0,101,100,37,croatian,0,larouste,1
+34,Independant,Independant,amsterdam,0,0,0,74,36,37,croatian,0,larouste,1
+352,Independant,Independant,amsterdam,1,0,0,101,77,37,croatian,0,larouste,1
+517,Boss Western,Boss Western,amsterdam,1,0,0,107,81,37,croatian,0,larouste,1
+933,Boss Western,J.Halliday Inn,amsterdam,1,0,0,153,90,37,croatian,0,larouste,1
+234,Boss Western,J.Halliday Inn,amsterdam,0,0,0,138,92,37,croatian,0,larouste,1
+706,Boss Western,Boss Western,amsterdam,0,0,1,109,66,37,croatian,0,larouste,1
+163,Yin Yang,Royal Lotus,amsterdam,0,1,0,170,126,37,croatian,0,larouste,1
+366,Independant,Independant,amsterdam,1,0,0,76,73,37,croatian,0,larouste,1
+715,Yin Yang,Ardisson,amsterdam,0,0,0,145,86,37,croatian,0,larouste,1
+317,Accar Hotels,Marcure,amsterdam,0,0,0,162,129,37,croatian,0,larouste,1
+117,Yin Yang,8 Premium,amsterdam,1,0,0,76,35,37,croatian,0,larouste,1
+375,Independant,Independant,amsterdam,1,0,0,101,71,37,croatian,0,larouste,1
+22,Yin Yang,Ardisson,amsterdam,1,0,0,151,80,37,croatian,0,larouste,1
+806,Chillton Worldwide,Chill Garden Inn,amsterdam,0,0,1,250,173,37,croatian,0,larouste,1
+157,Morriott International,Corlton,amsterdam,0,0,0,236,164,37,croatian,0,larouste,1
+809,Chillton Worldwide,Chill Garden Inn,amsterdam,0,1,0,227,175,37,croatian,0,larouste,1
+971,Chillton Worldwide,Tripletree,amsterdam,1,0,0,141,90,37,croatian,0,larouste,1
+628,Boss Western,J.Halliday Inn,amsterdam,0,0,0,153,90,37,croatian,0,larouste,1
+271,Independant,Independant,amsterdam,1,0,0,75,37,37,croatian,0,larouste,1
+588,Independant,Independant,amsterdam,0,0,0,169,96,37,croatian,0,larouste,1
+625,Yin Yang,Royal Lotus,amsterdam,1,0,0,177,122,37,croatian,0,larouste,1
+307,Accar Hotels,Navatel,amsterdam,1,0,0,105,70,37,croatian,0,larouste,1
+103,Yin Yang,Royal Lotus,amsterdam,1,1,0,175,123,37,croatian,0,larouste,1
+214,Chillton Worldwide,Quadrupletree,amsterdam,0,1,0,164,125,37,croatian,0,larouste,1
+603,Morriott International,Corlton,amsterdam,0,1,0,228,174,37,croatian,0,larouste,1
+591,Accar Hotels,Safitel,amsterdam,0,0,0,237,184,37,croatian,0,larouste,1
+594,Chillton Worldwide,Chill Garden Inn,amsterdam,0,1,0,235,203,37,croatian,0,larouste,1
+218,Yin Yang,Royal Lotus,amsterdam,0,0,1,178,116,37,croatian,0,larouste,1
+658,Morriott International,CourtYord,amsterdam,1,0,0,154,90,37,croatian,0,larouste,1
+750,Independant,Independant,amsterdam,1,1,0,106,35,37,croatian,0,larouste,1
+548,Morriott International,Corlton,amsterdam,0,1,0,232,201,37,croatian,0,larouste,1
+101,Accar Hotels,Safitel,amsterdam,1,0,0,244,177,37,croatian,0,larouste,1
+778,Independant,Independant,amsterdam,1,0,0,108,70,37,croatian,0,larouste,1
+158,Yin Yang,Ardisson,amsterdam,0,0,0,141,90,37,croatian,0,larouste,1
+86,Independant,Independant,amsterdam,1,0,0,106,134,37,croatian,0,larouste,1
+510,Morriott International,Corlton,amsterdam,0,0,0,261,172,37,croatian,0,larouste,1
+557,Accar Hotels,Navatel,amsterdam,0,0,0,111,74,37,croatian,0,larouste,1
+85,Boss Western,Boss Western,amsterdam,1,0,0,100,77,37,croatian,0,larouste,1
+166,Boss Western,Boss Western,amsterdam,0,0,0,106,84,37,croatian,0,larouste,1
+455,Yin Yang,Ardisson,amsterdam,0,0,0,140,87,37,croatian,0,larouste,1
+891,Independant,Independant,amsterdam,1,0,0,105,36,37,croatian,0,larouste,1
+223,Boss Western,J.Halliday Inn,amsterdam,0,0,0,144,90,37,croatian,0,larouste,1
+140,Boss Western,Boss Western,amsterdam,0,0,0,103,73,37,croatian,0,larouste,1
+505,Independant,Independant,amsterdam,0,0,1,101,76,37,croatian,0,larouste,1
+146,Chillton Worldwide,Quadrupletree,amsterdam,0,0,0,169,122,37,croatian,0,larouste,1
+429,Chillton Worldwide,Chill Garden Inn,amsterdam,0,0,0,222,185,37,croatian,0,larouste,1
+779,Morriott International,Morriot,amsterdam,1,0,2,174,132,37,croatian,0,larouste,1
+493,Chillton Worldwide,Tripletree,amsterdam,0,0,0,147,82,37,croatian,0,larouste,1
+960,Chillton Worldwide,Chill Garden Inn,amsterdam,0,0,0,250,172,37,croatian,0,larouste,1
+783,Yin Yang,8 Premium,amsterdam,1,0,0,83,35,37,croatian,0,larouste,1
+326,Chillton Worldwide,Chill Garden Inn,amsterdam,0,1,0,238,178,37,croatian,0,larouste,1
+211,Morriott International,CourtYord,amsterdam,1,0,0,150,92,37,croatian,0,larouste,1
+475,Independant,Independant,amsterdam,1,0,0,98,75,37,croatian,0,larouste,1
+303,Yin Yang,Royal Lotus,amsterdam,1,1,0,169,136,37,croatian,0,larouste,1
+657,Chillton Worldwide,Quadrupletree,amsterdam,1,0,0,163,135,37,croatian,0,larouste,1
+269,Yin Yang,Ardisson,amsterdam,0,1,0,151,93,37,croatian,0,larouste,1
+880,Boss Western,Boss Western,amsterdam,0,0,0,108,70,37,croatian,0,larouste,1
+369,Independant,Independant,amsterdam,1,0,0,73,36,37,croatian,0,larouste,1
+465,Morriott International,Corlton,amsterdam,1,1,0,228,190,37,croatian,0,larouste,1
+680,Independant,Independant,amsterdam,1,0,0,147,38,37,croatian,0,larouste,1
+105,Yin Yang,Ardisson,amsterdam,0,0,0,145,88,37,croatian,0,larouste,1
+450,Morriott International,Morriot,amsterdam,0,0,0,166,134,37,croatian,0,larouste,1
+917,Morriott International,Corlton,amsterdam,1,1,0,259,179,37,croatian,0,larouste,1
+442,Accar Hotels,Marcure,amsterdam,0,0,0,163,134,37,croatian,0,larouste,1
+745,Independant,Independant,amsterdam,0,0,0,105,37,37,croatian,0,larouste,1
+587,Boss Western,J.Halliday Inn,amsterdam,0,0,0,154,87,37,croatian,0,larouste,1
+311,Independant,Independant,amsterdam,1,0,0,104,42,37,croatian,0,larouste,1
+52,Chillton Worldwide,Tripletree,amsterdam,0,0,0,145,86,37,croatian,0,larouste,1
+676,Independant,Independant,amsterdam,0,0,0,69,36,37,croatian,0,larouste,1
+918,Morriott International,Corlton,amsterdam,1,1,0,249,173,37,croatian,0,larouste,1
+627,Independant,Independant,amsterdam,0,0,0,103,69,37,croatian,0,larouste,1
+264,Independant,Independant,amsterdam,1,0,0,74,36,37,croatian,0,larouste,1
+124,Accar Hotels,Safitel,copenhagen,0,0,0,277,186,37,croatian,0,larouste,1
+805,Yin Yang,Ardisson,copenhagen,0,0,0,165,102,37,croatian,0,larouste,1
+202,Morriott International,CourtYord,copenhagen,1,0,0,154,92,37,croatian,0,larouste,1
+771,Accar Hotels,Safitel,copenhagen,1,0,0,274,189,37,croatian,0,larouste,1
+655,Accar Hotels,Safitel,copenhagen,0,0,1,267,182,37,croatian,0,larouste,1
+110,Chillton Worldwide,Tripletree,copenhagen,0,0,0,157,90,37,croatian,0,larouste,1
+36,Independant,Independant,copenhagen,0,0,0,188,79,37,croatian,0,larouste,1
+766,Accar Hotels,Safitel,copenhagen,0,1,0,280,179,37,croatian,0,larouste,1
+289,Independant,Independant,copenhagen,1,0,0,114,76,37,croatian,0,larouste,1
+348,Morriott International,CourtYord,copenhagen,0,0,0,162,101,37,croatian,0,larouste,1
+243,Yin Yang,8 Premium,copenhagen,1,0,0,93,36,37,croatian,0,larouste,1
+532,Yin Yang,Royal Lotus,copenhagen,1,1,0,204,122,37,croatian,0,larouste,1
+99,Morriott International,CourtYord,copenhagen,0,1,0,180,84,37,croatian,0,larouste,1
+983,Yin Yang,8 Premium,copenhagen,0,0,0,88,38,37,croatian,0,larouste,1
+726,Morriott International,Corlton,copenhagen,1,0,0,254,190,37,croatian,0,larouste,1
+865,Chillton Worldwide,Chill Garden Inn,copenhagen,1,1,0,276,182,37,croatian,0,larouste,1
+707,Accar Hotels,Safitel,copenhagen,0,1,0,274,182,37,croatian,0,larouste,1
+349,Yin Yang,Royal Lotus,copenhagen,0,1,0,208,119,37,croatian,0,larouste,1
+365,Independant,Independant,copenhagen,1,0,0,96,36,37,croatian,0,larouste,1
+695,Yin Yang,Ardisson,copenhagen,1,0,0,165,92,37,croatian,0,larouste,1
+385,Accar Hotels,Safitel,copenhagen,0,0,0,271,181,37,croatian,0,larouste,1
+78,Chillton Worldwide,Chill Garden Inn,copenhagen,0,0,0,264,185,37,croatian,0,larouste,1
+435,Chillton Worldwide,Chill Garden Inn,copenhagen,0,1,0,278,173,37,croatian,0,larouste,1
+622,Boss Western,Boss Western,copenhagen,1,0,0,122,80,37,croatian,0,larouste,1
+90,Yin Yang,Ardisson,copenhagen,1,0,0,163,96,37,croatian,0,larouste,1
+6,Independant,Independant,copenhagen,1,0,0,120,75,37,croatian,0,larouste,1
+402,Independant,Independant,copenhagen,1,0,0,131,68,37,croatian,0,larouste,1
+638,Independant,Independant,copenhagen,1,0,0,159,85,37,croatian,0,larouste,1
+688,Independant,Independant,copenhagen,0,0,1,85,76,37,croatian,0,larouste,1
+547,Yin Yang,Ardisson,copenhagen,1,0,0,165,92,37,croatian,0,larouste,1
+757,Accar Hotels,Navatel,copenhagen,1,0,0,124,70,37,croatian,0,larouste,1
+100,Accar Hotels,Ibas,copenhagen,1,0,0,91,36,37,croatian,0,larouste,1
+900,Accar Hotels,Marcure,copenhagen,1,0,0,192,132,37,croatian,0,larouste,1
+407,Accar Hotels,Marcure,copenhagen,0,1,0,208,115,37,croatian,0,larouste,1
+425,Morriott International,Morriot,copenhagen,0,0,0,190,137,37,croatian,0,larouste,1
+401,Boss Western,J.Halliday Inn,copenhagen,0,0,0,160,91,37,croatian,0,larouste,1
+761,Boss Western,Boss Western,copenhagen,0,0,0,119,76,37,croatian,0,larouste,1
+770,Morriott International,Morriot,copenhagen,1,1,0,183,130,37,croatian,0,larouste,1
+562,Chillton Worldwide,Quadrupletree,copenhagen,0,0,0,206,126,37,croatian,0,larouste,1
+92,Independant,Independant,copenhagen,0,0,0,88,39,37,croatian,0,larouste,1
+546,Independant,Independant,copenhagen,1,0,0,88,72,37,croatian,0,larouste,1
+443,Accar Hotels,Navatel,copenhagen,0,0,0,119,77,37,croatian,0,larouste,1
+959,Chillton Worldwide,Quadrupletree,copenhagen,1,1,0,187,127,37,croatian,0,larouste,1
+391,Boss Western,J.Halliday Inn,copenhagen,1,0,0,177,87,37,croatian,0,larouste,1
+958,Accar Hotels,Marcure,copenhagen,1,0,0,213,121,37,croatian,0,larouste,1
+831,Independant,Independant,copenhagen,1,0,0,88,34,37,croatian,0,larouste,1
+872,Yin Yang,8 Premium,copenhagen,0,0,0,97,37,37,croatian,0,larouste,1
+596,Chillton Worldwide,Tripletree,copenhagen,0,0,0,177,82,37,croatian,0,larouste,1
+251,Independant,Independant,copenhagen,0,0,0,164,35,37,croatian,0,larouste,1
+829,Boss Western,J.Halliday Inn,copenhagen,0,0,0,180,88,37,croatian,0,larouste,1
+894,Chillton Worldwide,Chill Garden Inn,copenhagen,1,0,2,276,178,37,croatian,0,larouste,1
+358,Accar Hotels,Marcure,copenhagen,0,0,0,198,120,37,croatian,0,larouste,1
+716,Boss Western,Boss Western,copenhagen,0,0,0,123,74,37,croatian,0,larouste,1
+329,Morriott International,Morriot,copenhagen,1,0,0,204,122,37,croatian,0,larouste,1
+908,Morriott International,Corlton,copenhagen,1,1,0,313,163,37,croatian,0,larouste,1
+855,Yin Yang,Royal Lotus,copenhagen,0,0,0,192,137,37,croatian,0,larouste,1
+350,Chillton Worldwide,Chill Garden Inn,copenhagen,1,1,0,295,173,37,croatian,0,larouste,1
+978,Chillton Worldwide,Chill Garden Inn,copenhagen,1,0,0,299,180,37,croatian,0,larouste,1
+711,Boss Western,Boss Western,copenhagen,0,0,0,124,70,37,croatian,0,larouste,1
+793,Independant,Independant,copenhagen,0,0,0,160,37,37,croatian,0,larouste,1
+898,Yin Yang,8 Premium,copenhagen,1,0,0,86,40,37,croatian,0,larouste,1
+876,Boss Western,Boss Western,copenhagen,0,0,0,115,74,37,croatian,0,larouste,1
+812,Morriott International,CourtYord,copenhagen,1,0,0,178,83,37,croatian,0,larouste,1
+434,Accar Hotels,Ibas,copenhagen,0,0,0,93,35,37,croatian,0,larouste,1
+433,Accar Hotels,Navatel,copenhagen,0,0,0,117,76,37,croatian,0,larouste,1
+541,Boss Western,Boss Western,copenhagen,1,0,0,124,72,37,croatian,0,larouste,1
+893,Morriott International,Morriot,copenhagen,1,1,0,196,124,37,croatian,0,larouste,1
+508,Yin Yang,Royal Lotus,copenhagen,1,1,0,194,120,37,croatian,0,larouste,1
+142,Morriott International,Corlton,copenhagen,1,1,0,304,166,37,croatian,0,larouste,1
+531,Yin Yang,Ardisson,copenhagen,1,0,0,174,92,37,croatian,0,larouste,1
+834,Yin Yang,8 Premium,copenhagen,0,0,0,95,34,37,croatian,0,larouste,1
+309,Independant,Independant,copenhagen,0,0,0,96,75,37,croatian,0,larouste,1
+514,Morriott International,Corlton,copenhagen,0,0,0,266,200,37,croatian,0,larouste,1
+445,Yin Yang,8 Premium,copenhagen,0,0,0,93,36,37,croatian,0,larouste,1
+405,Yin Yang,8 Premium,copenhagen,1,0,0,99,37,37,croatian,0,larouste,1
+60,Independant,Independant,copenhagen,0,0,0,92,37,37,croatian,0,larouste,1
+664,Accar Hotels,Safitel,copenhagen,0,1,0,283,165,37,croatian,0,larouste,1
+280,Boss Western,Boss Western,copenhagen,0,0,0,122,84,37,croatian,0,larouste,1
+528,Accar Hotels,Safitel,copenhagen,1,0,0,267,183,37,croatian,0,larouste,1
+727,Independant,Independant,copenhagen,0,0,0,124,35,37,croatian,0,larouste,1
+559,Accar Hotels,Marcure,copenhagen,0,0,2,196,123,37,croatian,0,larouste,1
+32,Morriott International,CourtYord,copenhagen,0,0,0,182,91,37,croatian,0,larouste,1
+690,Yin Yang,Royal Lotus,copenhagen,1,1,0,206,127,37,croatian,0,larouste,1
+990,Boss Western,J.Halliday Inn,copenhagen,0,0,0,164,94,37,croatian,0,larouste,1
+869,Morriott International,Corlton,copenhagen,1,1,0,281,167,37,croatian,0,larouste,1
+772,Accar Hotels,Safitel,copenhagen,1,0,0,267,163,37,croatian,0,larouste,1
+973,Boss Western,J.Halliday Inn,copenhagen,0,0,0,175,90,37,croatian,0,larouste,1
+818,Yin Yang,Ardisson,copenhagen,0,0,0,180,90,37,croatian,0,larouste,1
+497,Chillton Worldwide,Quadrupletree,copenhagen,0,0,2,201,120,37,croatian,0,larouste,1
+153,Yin Yang,Royal Lotus,copenhagen,1,1,2,200,126,37,croatian,0,larouste,1
+367,Yin Yang,8 Premium,copenhagen,0,0,0,94,37,37,croatian,0,larouste,1
+844,Morriott International,Corlton,copenhagen,0,0,0,269,183,37,croatian,0,larouste,1
+319,Chillton Worldwide,Chill Garden Inn,copenhagen,1,0,0,285,180,37,croatian,0,larouste,1
+616,Boss Western,J.Halliday Inn,copenhagen,0,0,0,170,88,37,croatian,0,larouste,1
+849,Morriott International,CourtYord,copenhagen,0,0,0,162,90,37,croatian,0,larouste,1
+50,Boss Western,Boss Western,copenhagen,0,0,0,122,72,37,croatian,0,larouste,1
+691,Independant,Independant,copenhagen,1,0,0,85,78,37,croatian,0,larouste,1
+58,Yin Yang,Royal Lotus,copenhagen,1,0,2,194,123,37,croatian,0,larouste,1
+300,Boss Western,Boss Western,copenhagen,1,0,0,119,68,37,croatian,0,larouste,1
+113,Independant,Independant,copenhagen,0,0,0,89,38,37,croatian,0,larouste,1
+611,Chillton Worldwide,Tripletree,copenhagen,1,0,0,174,94,37,croatian,0,larouste,1
+720,Chillton Worldwide,Chill Garden Inn,copenhagen,0,0,2,267,200,37,croatian,0,larouste,1
+463,Yin Yang,8 Premium,copenhagen,0,0,0,99,35,37,croatian,0,larouste,1
+556,Boss Western,J.Halliday Inn,copenhagen,1,0,0,182,90,37,croatian,0,larouste,1
+518,Boss Western,Boss Western,copenhagen,0,0,0,117,72,37,croatian,0,larouste,1
+572,Accar Hotels,Marcure,copenhagen,1,0,0,189,118,37,croatian,0,larouste,1
+624,Chillton Worldwide,Quadrupletree,copenhagen,0,1,0,208,124,37,croatian,0,larouste,1
+335,Independant,Independant,copenhagen,0,0,0,91,72,37,croatian,0,larouste,1
+669,Yin Yang,Royal Lotus,copenhagen,0,0,0,203,124,37,croatian,0,larouste,1
+989,Accar Hotels,Ibas,copenhagen,0,0,0,93,36,37,croatian,0,larouste,1
+422,Morriott International,Corlton,copenhagen,0,1,0,276,178,37,croatian,0,larouste,1
+826,Accar Hotels,Marcure,copenhagen,1,1,0,196,134,37,croatian,0,larouste,1
+122,Accar Hotels,Safitel,copenhagen,0,1,1,277,196,37,croatian,0,larouste,1
+922,Yin Yang,Royal Lotus,copenhagen,0,1,0,213,117,37,croatian,0,larouste,1
+431,Accar Hotels,Navatel,copenhagen,1,0,0,125,71,37,croatian,0,larouste,1
+1,Independant,Independant,copenhagen,1,0,0,95,70,37,croatian,0,larouste,1
+961,Morriott International,Morriot,copenhagen,0,1,0,187,130,37,croatian,0,larouste,1
+506,Independant,Independant,copenhagen,1,0,0,121,38,37,croatian,0,larouste,1
+291,Accar Hotels,Marcure,copenhagen,0,0,0,196,131,37,croatian,0,larouste,1
+481,Independant,Independant,copenhagen,1,0,0,95,35,37,croatian,0,larouste,1
+523,Independant,Independant,copenhagen,0,0,0,81,71,37,croatian,0,larouste,1
+91,Independant,Independant,copenhagen,1,0,0,122,36,37,croatian,0,larouste,1
+519,Yin Yang,Royal Lotus,copenhagen,0,0,0,190,118,37,croatian,0,larouste,1
+994,Yin Yang,Ardisson,copenhagen,0,0,0,163,95,37,croatian,0,larouste,1
+267,Boss Western,J.Halliday Inn,copenhagen,1,0,0,180,90,37,croatian,0,larouste,1
+698,Chillton Worldwide,Quadrupletree,copenhagen,0,0,0,198,121,37,croatian,0,larouste,1
+23,Yin Yang,Ardisson,copenhagen,1,0,0,162,93,37,croatian,0,larouste,1
+53,Independant,Independant,copenhagen,1,0,0,96,38,37,croatian,0,larouste,1
+930,Independant,Independant,copenhagen,0,0,0,117,94,37,croatian,0,larouste,1
+938,Independant,Independant,copenhagen,0,0,0,124,38,37,croatian,0,larouste,1
+318,Boss Western,Boss Western,copenhagen,1,0,0,126,66,37,croatian,0,larouste,1
+96,Boss Western,Boss Western,copenhagen,0,0,0,124,72,37,croatian,0,larouste,1
+332,Chillton Worldwide,Quadrupletree,copenhagen,1,1,0,208,123,37,croatian,0,larouste,1
+539,Accar Hotels,Safitel,copenhagen,1,1,0,277,180,37,croatian,0,larouste,1
+487,Morriott International,CourtYord,copenhagen,0,0,0,173,91,37,croatian,0,larouste,1
+285,Independant,Independant,madrid,1,0,0,88,38,37,croatian,0,larouste,1
+186,Yin Yang,Ardisson,madrid,1,0,0,118,97,37,croatian,0,larouste,1
+609,Chillton Worldwide,Quadrupletree,madrid,1,0,0,139,139,37,croatian,0,larouste,1
+618,Accar Hotels,Navatel,madrid,1,0,0,91,70,37,croatian,0,larouste,1
+710,Accar Hotels,Navatel,madrid,0,0,0,94,71,37,croatian,0,larouste,1
+388,Yin Yang,Ardisson,madrid,1,0,0,126,92,37,croatian,0,larouste,1
+468,Accar Hotels,Ibas,madrid,0,0,0,65,37,37,croatian,0,larouste,1
+252,Morriott International,Morriot,madrid,1,1,0,154,124,37,croatian,0,larouste,1
+126,Independant,Independant,madrid,0,0,0,81,71,37,croatian,0,larouste,1
+904,Boss Western,Boss Western,madrid,0,0,0,94,68,37,croatian,0,larouste,1
+154,Accar Hotels,Safitel,madrid,1,1,0,208,178,37,croatian,0,larouste,1
+997,Chillton Worldwide,Tripletree,madrid,0,0,0,122,86,37,croatian,0,larouste,1
+982,Morriott International,Morriot,madrid,1,0,0,135,125,37,croatian,0,larouste,1
+454,Boss Western,Boss Western,madrid,1,0,0,87,76,37,croatian,0,larouste,1
+901,Morriott International,Corlton,madrid,1,1,0,209,180,37,croatian,0,larouste,1
+873,Accar Hotels,Safitel,madrid,1,1,0,202,183,37,croatian,0,larouste,1
+258,Morriott International,Morriot,madrid,0,0,1,140,136,37,croatian,0,larouste,1
+780,Accar Hotels,Safitel,madrid,1,1,0,195,189,37,croatian,0,larouste,1
+495,Chillton Worldwide,Chill Garden Inn,madrid,0,0,0,213,166,37,croatian,0,larouste,1
+175,Boss Western,Boss Western,madrid,1,0,0,91,68,37,croatian,0,larouste,1
+941,Independant,Independant,madrid,1,0,0,64,36,37,croatian,0,larouste,1
+120,Yin Yang,Ardisson,madrid,1,0,0,121,83,37,croatian,0,larouste,1
+2,Independant,Independant,madrid,0,0,0,87,134,37,croatian,0,larouste,1
+600,Independant,Independant,madrid,1,0,0,60,39,37,croatian,0,larouste,1
+527,Yin Yang,Ardisson,madrid,0,0,0,118,94,37,croatian,0,larouste,1
+147,Yin Yang,Royal Lotus,madrid,1,1,0,145,121,37,croatian,0,larouste,1
+939,Morriott International,Morriot,madrid,1,1,0,143,138,37,croatian,0,larouste,1
+246,Morriott International,Corlton,madrid,0,1,0,192,189,37,croatian,0,larouste,1
+138,Independant,Independant,madrid,0,0,0,64,40,37,croatian,0,larouste,1
+312,Independant,Independant,madrid,1,1,0,93,92,37,croatian,0,larouste,1
+427,Yin Yang,Royal Lotus,madrid,0,0,0,147,131,37,croatian,0,larouste,1
+444,Boss Western,Boss Western,madrid,1,0,0,85,82,37,croatian,0,larouste,1
+886,Boss Western,Boss Western,madrid,0,0,0,98,71,37,croatian,0,larouste,1
+798,Accar Hotels,Safitel,madrid,0,0,1,197,181,37,croatian,0,larouste,1
+393,Boss Western,J.Halliday Inn,madrid,0,0,0,119,90,37,croatian,0,larouste,1
+322,Independant,Independant,madrid,1,0,0,84,42,37,croatian,0,larouste,1
+413,Morriott International,Corlton,madrid,0,0,0,194,206,37,croatian,0,larouste,1
+241,Boss Western,J.Halliday Inn,madrid,1,0,0,123,86,37,croatian,0,larouste,1
+131,Morriott International,Morriot,madrid,1,1,0,142,129,37,croatian,0,larouste,1
+847,Boss Western,Boss Western,madrid,0,0,0,86,85,37,croatian,0,larouste,1
+721,Independant,Independant,madrid,0,0,0,67,72,37,croatian,0,larouste,1
+615,Accar Hotels,Navatel,madrid,0,0,0,90,70,37,croatian,0,larouste,1
+378,Boss Western,J.Halliday Inn,madrid,0,0,0,124,86,37,croatian,0,larouste,1
+277,Chillton Worldwide,Chill Garden Inn,madrid,0,0,0,202,180,37,croatian,0,larouste,1
+689,Independant,Independant,madrid,0,0,0,84,76,37,croatian,0,larouste,1
+31,Boss Western,Boss Western,madrid,0,0,0,87,76,37,croatian,0,larouste,1
+174,Accar Hotels,Marcure,madrid,0,0,0,133,132,37,croatian,0,larouste,1
+717,Accar Hotels,Safitel,madrid,1,1,0,210,167,37,croatian,0,larouste,1
+525,Boss Western,Boss Western,madrid,0,0,0,85,70,37,croatian,0,larouste,1
+398,Yin Yang,8 Premium,madrid,0,0,0,65,37,37,croatian,0,larouste,1
+75,Boss Western,Boss Western,madrid,0,0,0,89,67,37,croatian,0,larouste,1
+135,Chillton Worldwide,Chill Garden Inn,madrid,0,1,0,204,181,37,croatian,0,larouste,1
+276,Yin Yang,8 Premium,madrid,0,0,0,68,34,37,croatian,0,larouste,1
+284,Yin Yang,Ardisson,madrid,1,0,1,124,86,37,croatian,0,larouste,1
+384,Accar Hotels,Marcure,madrid,1,1,0,150,125,37,croatian,0,larouste,1
+733,Boss Western,Boss Western,madrid,1,0,0,90,75,37,croatian,0,larouste,1
+791,Boss Western,Boss Western,madrid,1,0,0,85,72,37,croatian,0,larouste,1
+205,Independant,Independant,madrid,1,0,0,80,38,37,croatian,0,larouste,1
+102,Morriott International,Corlton,madrid,1,1,0,206,182,37,croatian,0,larouste,1
+458,Independant,Independant,madrid,0,0,0,67,70,37,croatian,0,larouste,1
+606,Accar Hotels,Safitel,madrid,0,0,0,203,186,37,croatian,0,larouste,1
+261,Boss Western,Boss Western,madrid,0,0,0,89,81,37,croatian,0,larouste,1
+561,Independant,Independant,madrid,0,0,0,64,41,37,croatian,0,larouste,1
+964,Morriott International,CourtYord,madrid,0,1,0,124,86,37,croatian,0,larouste,1
+499,Accar Hotels,Marcure,madrid,0,1,0,144,122,37,croatian,0,larouste,1
+93,Chillton Worldwide,Chill Garden Inn,madrid,1,0,0,204,168,37,croatian,0,larouste,1
+411,Independant,Independant,madrid,0,0,0,89,37,37,croatian,0,larouste,1
+79,Boss Western,Boss Western,madrid,0,0,0,91,77,37,croatian,0,larouste,1
+313,Accar Hotels,Ibas,madrid,0,0,0,70,33,37,croatian,0,larouste,1
+857,Accar Hotels,Navatel,madrid,1,0,0,87,72,37,croatian,0,larouste,1
+936,Boss Western,J.Halliday Inn,madrid,1,0,0,119,92,37,croatian,0,larouste,1
+737,Accar Hotels,Marcure,madrid,0,0,0,149,125,37,croatian,0,larouste,1
+351,Independant,Independant,madrid,0,0,0,80,40,37,croatian,0,larouste,1
+297,Chillton Worldwide,Chill Garden Inn,madrid,1,1,0,214,175,37,croatian,0,larouste,1
+789,Accar Hotels,Ibas,madrid,1,0,0,64,36,37,croatian,0,larouste,1
+478,Accar Hotels,Navatel,madrid,0,0,0,89,67,37,croatian,0,larouste,1
+768,Accar Hotels,Safitel,madrid,0,1,0,204,179,37,croatian,0,larouste,1
+127,Independant,Independant,madrid,1,0,0,70,69,37,croatian,0,larouste,1
+67,Chillton Worldwide,Chill Garden Inn,madrid,0,0,0,195,188,37,croatian,0,larouste,1
+418,Boss Western,J.Halliday Inn,madrid,1,0,0,125,88,37,croatian,0,larouste,1
+333,Boss Western,Boss Western,madrid,0,0,0,84,72,37,croatian,0,larouste,1
+233,Chillton Worldwide,Tripletree,madrid,0,0,0,125,85,37,croatian,0,larouste,1
+20,Independant,Independant,madrid,1,0,0,68,40,37,croatian,0,larouste,1
+697,Yin Yang,Ardisson,madrid,0,0,0,119,86,37,croatian,0,larouste,1
+633,Morriott International,CourtYord,madrid,0,0,0,119,94,37,croatian,0,larouste,1
+860,Yin Yang,Ardisson,madrid,0,0,0,118,84,37,croatian,0,larouste,1
+747,Morriott International,Morriot,madrid,1,0,0,141,133,37,croatian,0,larouste,1
+97,Accar Hotels,Safitel,madrid,1,1,0,206,178,37,croatian,0,larouste,1
+235,Morriott International,CourtYord,madrid,0,0,0,120,89,37,croatian,0,larouste,1
+822,Morriott International,Morriot,madrid,1,0,0,140,127,37,croatian,0,larouste,1
+538,Independant,Independant,madrid,0,0,0,115,75,37,croatian,0,larouste,1
+888,Morriott International,Corlton,madrid,1,0,1,193,177,37,croatian,0,larouste,1
+39,Accar Hotels,Navatel,madrid,0,0,0,87,67,37,croatian,0,larouste,1
+185,Morriott International,CourtYord,madrid,0,0,0,123,88,37,croatian,0,larouste,1
+575,Independant,Independant,madrid,1,0,1,89,77,37,croatian,0,larouste,1
+265,Morriott International,Corlton,madrid,0,1,0,196,180,37,croatian,0,larouste,1
+149,Morriott International,Morriot,madrid,1,0,0,155,117,37,croatian,0,larouste,1
+845,Accar Hotels,Safitel,madrid,0,0,0,195,174,37,croatian,0,larouste,1
+54,Independant,Independant,madrid,0,0,0,83,96,37,croatian,0,larouste,1
+870,Independant,Independant,madrid,0,0,0,70,39,37,croatian,0,larouste,1
+500,Independant,Independant,madrid,0,0,0,68,94,37,croatian,0,larouste,1
+828,Independant,Independant,madrid,0,0,0,112,40,37,croatian,0,larouste,1
+414,Independant,Independant,madrid,0,0,0,63,76,37,croatian,0,larouste,1
+909,Yin Yang,8 Premium,madrid,1,0,0,68,35,37,croatian,0,larouste,1
+836,Yin Yang,Royal Lotus,madrid,1,0,0,140,134,37,croatian,0,larouste,1
+729,Accar Hotels,Safitel,madrid,0,1,0,209,185,37,croatian,0,larouste,1
+673,Yin Yang,Royal Lotus,madrid,0,0,0,144,120,37,croatian,0,larouste,1
+619,Independant,Independant,madrid,1,0,0,115,78,37,croatian,0,larouste,1
+564,Accar Hotels,Ibas,paris,0,0,0,94,35,37,croatian,0,larouste,1
+911,Boss Western,Boss Western,paris,0,0,0,114,82,37,croatian,0,larouste,1
+963,Boss Western,Boss Western,paris,0,0,0,113,73,37,croatian,0,larouste,1
+447,Accar Hotels,Navatel,paris,1,0,1,108,74,37,croatian,0,larouste,1
+576,Morriott International,Morriot,paris,0,0,0,189,120,37,croatian,0,larouste,1
+975,Yin Yang,Ardisson,paris,0,0,0,162,84,37,croatian,0,larouste,1
+222,Morriott International,Corlton,paris,1,0,0,255,176,37,croatian,0,larouste,1
+130,Accar Hotels,Marcure,paris,0,0,0,177,120,37,croatian,0,larouste,1
+708,Yin Yang,Ardisson,paris,1,0,0,157,84,37,croatian,0,larouste,1
+700,Accar Hotels,Marcure,paris,0,0,0,181,146,37,croatian,0,larouste,1
+397,Morriott International,Corlton,paris,0,1,0,271,178,37,croatian,0,larouste,1
+69,Accar Hotels,Safitel,paris,0,0,0,257,210,37,croatian,0,larouste,1
+357,Boss Western,J.Halliday Inn,paris,0,0,0,157,87,37,croatian,0,larouste,1
+926,Yin Yang,Royal Lotus,paris,0,0,0,176,127,37,croatian,0,larouste,1
+132,Accar Hotels,Safitel,paris,0,1,0,252,182,37,croatian,0,larouste,1
+837,Accar Hotels,Safitel,paris,1,1,0,247,188,37,croatian,0,larouste,1
+327,Morriott International,Morriot,paris,0,0,0,189,121,37,croatian,0,larouste,1
+560,Boss Western,J.Halliday Inn,paris,0,0,0,149,87,37,croatian,0,larouste,1
+970,Chillton Worldwide,Chill Garden Inn,paris,0,0,2,257,186,37,croatian,0,larouste,1
+14,Independant,Independant,paris,1,0,0,153,76,37,croatian,0,larouste,1
+339,Morriott International,Morriot,paris,1,1,0,185,125,37,croatian,0,larouste,1
+415,Boss Western,Boss Western,paris,1,0,0,119,69,37,croatian,0,larouste,1
+41,Accar Hotels,Navatel,paris,1,0,0,113,68,37,croatian,0,larouste,1
+207,Boss Western,J.Halliday Inn,paris,0,0,1,168,90,37,croatian,0,larouste,1
+723,Accar Hotels,Ibas,paris,1,0,0,78,37,37,croatian,0,larouste,1
+216,Morriott International,Morriot,paris,1,0,0,188,127,37,croatian,0,larouste,1
+248,Accar Hotels,Marcure,paris,0,0,0,176,125,37,croatian,0,larouste,1
+342,Independant,Independant,paris,0,0,0,115,39,37,croatian,0,larouste,1
+738,Accar Hotels,Navatel,paris,0,0,0,114,76,37,croatian,0,larouste,1
+323,Chillton Worldwide,Chill Garden Inn,paris,1,1,0,263,178,37,croatian,0,larouste,1
+580,Boss Western,Boss Western,paris,0,0,0,113,65,37,croatian,0,larouste,1
+937,Yin Yang,Royal Lotus,paris,0,0,0,180,124,37,croatian,0,larouste,1
+133,Independant,Independant,paris,0,0,0,161,86,37,croatian,0,larouste,1
+722,Yin Yang,Ardisson,paris,1,0,0,155,88,37,croatian,0,larouste,1
+640,Boss Western,J.Halliday Inn,paris,0,0,0,155,86,37,croatian,0,larouste,1
+227,Yin Yang,8 Premium,paris,0,0,0,82,36,37,croatian,0,larouste,1
+199,Yin Yang,Royal Lotus,paris,0,0,0,191,121,37,croatian,0,larouste,1
+742,Accar Hotels,Safitel,paris,1,1,0,241,174,37,croatian,0,larouste,1
+119,Morriott International,Morriot,paris,1,0,0,177,134,37,croatian,0,larouste,1
+165,Independant,Independant,paris,1,0,0,154,96,37,croatian,0,larouste,1
+379,Morriott International,Corlton,paris,0,0,0,266,184,37,croatian,0,larouste,1
+115,Independant,Independant,paris,1,0,0,109,78,37,croatian,0,larouste,1
+192,Independant,Independant,paris,1,0,0,116,37,37,croatian,0,larouste,1
+803,Accar Hotels,Safitel,paris,0,0,0,278,173,37,croatian,0,larouste,1
+645,Boss Western,J.Halliday Inn,paris,1,0,1,160,88,37,croatian,0,larouste,1
+467,Accar Hotels,Safitel,paris,0,0,0,260,176,37,croatian,0,larouste,1
+299,Independant,Independant,paris,1,0,0,105,89,37,croatian,0,larouste,1
+56,Yin Yang,Royal Lotus,paris,1,1,0,186,127,37,croatian,0,larouste,1
+767,Boss Western,J.Halliday Inn,paris,1,0,0,157,86,37,croatian,0,larouste,1
+731,Boss Western,J.Halliday Inn,paris,1,0,0,157,88,37,croatian,0,larouste,1
+631,Yin Yang,8 Premium,paris,1,0,0,82,37,37,croatian,0,larouste,1
+306,Accar Hotels,Marcure,paris,0,1,0,191,118,37,croatian,0,larouste,1
+795,Boss Western,J.Halliday Inn,paris,1,0,0,161,88,37,croatian,0,larouste,1
+972,Independant,Independant,paris,1,0,0,81,34,37,croatian,0,larouste,1
+841,Independant,Independant,paris,0,0,0,80,80,37,croatian,0,larouste,1
+617,Morriott International,Corlton,paris,0,1,0,275,168,37,croatian,0,larouste,1
+436,Accar Hotels,Safitel,paris,0,0,0,252,206,37,croatian,0,larouste,1
+259,Boss Western,Boss Western,paris,0,0,0,115,63,37,croatian,0,larouste,1
+573,Chillton Worldwide,Chill Garden Inn,paris,1,1,1,281,170,37,croatian,0,larouste,1
+95,Morriott International,Corlton,paris,1,0,0,255,193,37,croatian,0,larouste,1
+785,Morriott International,Morriot,paris,1,1,0,181,123,37,croatian,0,larouste,1
+776,Morriott International,CourtYord,paris,1,0,0,162,92,37,croatian,0,larouste,1
+582,Yin Yang,Royal Lotus,paris,0,1,0,191,127,37,croatian,0,larouste,1
+629,Independant,Independant,paris,0,0,0,89,70,37,croatian,0,larouste,1
+21,Accar Hotels,Ibas,paris,0,0,0,80,39,37,croatian,0,larouste,1
+866,Accar Hotels,Safitel,paris,1,1,0,256,192,37,croatian,0,larouste,1
+176,Accar Hotels,Ibas,paris,0,0,0,87,31,37,croatian,0,larouste,1
+790,Accar Hotels,Safitel,paris,1,1,0,255,177,37,croatian,0,larouste,1
+986,Chillton Worldwide,Quadrupletree,paris,1,1,0,188,127,37,croatian,0,larouste,1
+748,Accar Hotels,Marcure,paris,0,0,0,179,141,37,croatian,0,larouste,1
+792,Independant,Independant,paris,0,0,0,84,87,37,croatian,0,larouste,1
+571,Accar Hotels,Safitel,paris,0,1,0,256,180,37,croatian,0,larouste,1
+741,Morriott International,CourtYord,paris,0,0,0,158,86,37,croatian,0,larouste,1
+735,Boss Western,Boss Western,paris,0,0,0,108,70,37,croatian,0,larouste,1
+28,Boss Western,Boss Western,paris,0,0,1,122,69,37,croatian,0,larouste,1
+188,Accar Hotels,Ibas,paris,0,0,0,86,40,37,croatian,0,larouste,1
+65,Boss Western,J.Halliday Inn,paris,0,0,0,154,95,37,croatian,0,larouste,1
+558,Accar Hotels,Ibas,paris,1,0,0,85,35,37,croatian,0,larouste,1
+825,Morriott International,CourtYord,paris,0,0,0,164,92,37,croatian,0,larouste,1
+842,Accar Hotels,Safitel,paris,1,1,0,293,162,37,croatian,0,larouste,1
+577,Yin Yang,Ardisson,paris,1,1,1,164,85,37,croatian,0,larouste,1
+29,Accar Hotels,Marcure,paris,1,0,0,186,127,37,croatian,0,larouste,1
+225,Boss Western,J.Halliday Inn,paris,1,0,0,160,86,37,croatian,0,larouste,1
+94,Accar Hotels,Safitel,paris,0,0,0,255,212,37,croatian,0,larouste,1
+684,Yin Yang,8 Premium,paris,0,0,0,82,36,37,croatian,0,larouste,1
+853,Chillton Worldwide,Tripletree,paris,1,0,0,150,91,37,croatian,0,larouste,1
+534,Morriott International,Corlton,paris,0,0,0,256,188,37,croatian,0,larouste,1
+331,Independant,Independant,paris,0,0,0,83,69,37,croatian,0,larouste,1
+148,Independant,Independant,paris,0,0,0,114,69,37,croatian,0,larouste,1
+851,Independant,Independant,paris,1,0,0,84,76,37,croatian,0,larouste,1
+66,Yin Yang,Ardisson,paris,0,0,0,141,98,37,croatian,0,larouste,1
+949,Accar Hotels,Safitel,paris,0,1,0,264,169,37,croatian,0,larouste,1
+912,Boss Western,J.Halliday Inn,paris,0,0,0,168,86,37,croatian,0,larouste,1
+540,Morriott International,Corlton,paris,1,1,0,267,186,37,croatian,0,larouste,1
+419,Accar Hotels,Navatel,paris,1,0,0,108,77,37,croatian,0,larouste,1
+254,Boss Western,J.Halliday Inn,paris,0,0,0,160,92,37,croatian,0,larouste,1
+942,Chillton Worldwide,Quadrupletree,paris,0,1,0,176,120,37,croatian,0,larouste,1
+522,Boss Western,Boss Western,paris,1,0,0,110,72,37,croatian,0,larouste,1
+229,Accar Hotels,Marcure,paris,1,0,0,177,126,37,croatian,0,larouste,1
+492,Independant,Independant,paris,0,0,0,112,76,37,croatian,0,larouste,1
+421,Boss Western,Boss Western,paris,0,0,0,117,74,37,croatian,0,larouste,1
+663,Chillton Worldwide,Tripletree,paris,0,0,0,152,94,37,croatian,0,larouste,1
+734,Accar Hotels,Navatel,paris,0,0,0,119,71,37,croatian,0,larouste,1
+808,Accar Hotels,Safitel,paris,1,0,0,247,169,37,croatian,0,larouste,1
+998,Yin Yang,Royal Lotus,paris,0,0,0,188,129,37,croatian,0,larouste,1
+24,Morriott International,Corlton,paris,0,1,0,249,206,37,croatian,0,larouste,1
+338,Yin Yang,Royal Lotus,paris,0,0,0,183,117,37,croatian,0,larouste,1
+526,Accar Hotels,Safitel,paris,0,0,0,259,179,37,croatian,0,larouste,1
+736,Morriott International,Morriot,paris,0,0,0,188,126,37,croatian,0,larouste,1
+858,Yin Yang,Royal Lotus,paris,1,0,0,177,127,37,croatian,0,larouste,1
+903,Independant,Independant,paris,1,0,0,87,79,37,croatian,0,larouste,1
+159,Chillton Worldwide,Quadrupletree,paris,1,0,0,177,136,37,croatian,0,larouste,1
+602,Independant,Independant,paris,1,0,0,108,40,37,croatian,0,larouste,1
+910,Yin Yang,8 Premium,paris,0,0,0,85,38,37,croatian,0,larouste,1
+392,Chillton Worldwide,Tripletree,paris,0,1,1,165,88,37,croatian,0,larouste,1
+614,Accar Hotels,Ibas,paris,1,0,0,85,37,37,croatian,0,larouste,1
+889,Chillton Worldwide,Tripletree,paris,0,0,0,153,87,37,croatian,0,larouste,1
+182,Boss Western,J.Halliday Inn,paris,1,0,0,155,100,37,croatian,0,larouste,1
+946,Yin Yang,Royal Lotus,paris,0,0,0,181,123,37,croatian,0,larouste,1
+599,Independant,Independant,paris,0,0,0,105,80,37,croatian,0,larouste,1
+121,Independant,Independant,paris,1,0,0,80,40,37,croatian,0,larouste,1
+595,Morriott International,CourtYord,paris,0,0,0,150,96,37,croatian,0,larouste,1
+584,Accar Hotels,Safitel,paris,0,0,0,259,194,37,croatian,0,larouste,1
+308,Chillton Worldwide,Quadrupletree,paris,0,0,0,188,119,37,croatian,0,larouste,1
+477,Independant,Independant,paris,1,0,0,81,95,37,croatian,0,larouste,1
+612,Chillton Worldwide,Quadrupletree,paris,0,1,0,181,127,37,croatian,0,larouste,1
+797,Accar Hotels,Navatel,paris,0,0,0,117,77,37,croatian,0,larouste,1
+868,Yin Yang,Royal Lotus,paris,0,1,1,174,129,37,croatian,0,larouste,1
+49,Boss Western,J.Halliday Inn,paris,0,0,0,160,95,37,croatian,0,larouste,1
+290,Yin Yang,Ardisson,paris,0,0,0,168,82,37,croatian,0,larouste,1
+412,Accar Hotels,Safitel,paris,1,0,0,271,190,37,croatian,0,larouste,1
+948,Accar Hotels,Marcure,paris,1,1,0,188,125,37,croatian,0,larouste,1
+980,Independant,Independant,paris,0,0,0,111,73,37,croatian,0,larouste,1
+0,Yin Yang,Royal Lotus,paris,1,0,1,176,125,37,croatian,0,larouste,1
+705,Boss Western,Boss Western,paris,1,0,0,125,70,37,croatian,0,larouste,1
+257,Morriott International,CourtYord,paris,0,0,0,157,84,37,croatian,0,larouste,1
+823,Accar Hotels,Marcure,paris,1,1,0,183,122,37,croatian,0,larouste,1
+579,Accar Hotels,Ibas,paris,0,0,0,81,38,37,croatian,0,larouste,1
+62,Accar Hotels,Ibas,paris,0,0,0,78,38,37,croatian,0,larouste,1
+634,Independant,Independant,paris,0,0,0,84,37,37,croatian,0,larouste,1
+314,Independant,Independant,paris,1,0,1,117,70,37,croatian,0,larouste,1
+17,Accar Hotels,Ibas,paris,0,0,0,83,40,37,croatian,0,larouste,1
+150,Accar Hotels,Marcure,paris,0,0,0,181,121,37,croatian,0,larouste,1
+27,Morriott International,Corlton,paris,1,0,0,256,185,37,croatian,0,larouste,1
+817,Chillton Worldwide,Quadrupletree,paris,1,1,0,191,120,37,croatian,0,larouste,1
+882,Accar Hotels,Marcure,paris,1,1,0,185,125,37,croatian,0,larouste,1
+274,Morriott International,CourtYord,paris,1,0,0,153,92,37,croatian,0,larouste,1
+162,Morriott International,Corlton,paris,1,1,0,263,171,37,croatian,0,larouste,1
+885,Chillton Worldwide,Tripletree,paris,0,0,0,168,84,37,croatian,0,larouste,1
+656,Boss Western,Boss Western,paris,1,0,0,108,75,37,croatian,0,larouste,1
+123,Boss Western,Boss Western,paris,0,0,0,108,68,37,croatian,0,larouste,1
+782,Morriott International,Corlton,paris,0,1,0,271,184,37,croatian,0,larouste,1
+863,Chillton Worldwide,Chill Garden Inn,paris,0,1,0,256,197,37,croatian,0,larouste,1
+359,Accar Hotels,Navatel,paris,0,0,0,119,69,37,croatian,0,larouste,1
+756,Yin Yang,Royal Lotus,paris,1,1,0,186,120,37,croatian,0,larouste,1
+884,Accar Hotels,Marcure,paris,0,0,0,179,128,37,croatian,0,larouste,1
+513,Yin Yang,8 Premium,rome,0,0,0,73,37,37,croatian,0,larouste,1
+452,Chillton Worldwide,Quadrupletree,rome,0,1,0,146,146,37,croatian,0,larouste,1
+298,Boss Western,J.Halliday Inn,rome,0,0,0,125,94,37,croatian,0,larouste,1
+390,Chillton Worldwide,Quadrupletree,rome,1,0,0,151,122,37,croatian,0,larouste,1
+114,Boss Western,J.Halliday Inn,rome,1,0,0,130,89,37,croatian,0,larouste,1
+38,Independant,Independant,rome,1,0,0,90,36,37,croatian,0,larouste,1
+170,Boss Western,J.Halliday Inn,rome,0,0,0,131,90,37,croatian,0,larouste,1
+694,Independant,Independant,rome,0,0,0,123,36,37,croatian,0,larouste,1
+191,Yin Yang,Ardisson,rome,1,0,0,124,88,37,croatian,0,larouste,1
+751,Morriott International,Corlton,rome,1,0,0,208,192,37,croatian,0,larouste,1
+712,Yin Yang,Royal Lotus,rome,1,1,1,151,129,37,croatian,0,larouste,1
+232,Independant,Independant,rome,1,0,0,72,36,37,croatian,0,larouste,1
+423,Morriott International,Corlton,rome,0,0,0,208,193,37,croatian,0,larouste,1
+344,Accar Hotels,Ibas,rome,1,0,0,66,41,37,croatian,0,larouste,1
+725,Morriott International,Morriot,rome,1,0,0,146,122,37,croatian,0,larouste,1
+178,Accar Hotels,Safitel,rome,0,1,0,222,185,37,croatian,0,larouste,1
+46,Morriott International,Corlton,rome,0,0,0,214,167,37,croatian,0,larouste,1
+659,Yin Yang,Royal Lotus,rome,1,0,0,151,133,37,croatian,0,larouste,1
+953,Boss Western,Boss Western,rome,0,0,0,89,78,37,croatian,0,larouste,1
+781,Yin Yang,8 Premium,rome,1,0,0,70,36,37,croatian,0,larouste,1
+991,Accar Hotels,Marcure,rome,0,0,0,152,115,37,croatian,0,larouste,1
+156,Independant,Independant,rome,0,0,1,65,37,37,croatian,0,larouste,1
+854,Accar Hotels,Safitel,rome,0,1,0,214,182,37,croatian,0,larouste,1
+566,Accar Hotels,Marcure,rome,0,0,0,145,146,37,croatian,0,larouste,1
+840,Boss Western,Boss Western,rome,0,0,0,96,72,37,croatian,0,larouste,1
+242,Yin Yang,Royal Lotus,rome,1,0,0,151,135,37,croatian,0,larouste,1
+3,Independant,Independant,rome,1,0,0,67,37,37,croatian,0,larouste,1
+273,Morriott International,CourtYord,rome,0,0,0,139,87,37,croatian,0,larouste,1
+296,Independant,Independant,rome,1,0,0,64,38,37,croatian,0,larouste,1
+563,Morriott International,Morriot,rome,1,1,2,155,120,37,croatian,0,larouste,1
+324,Chillton Worldwide,Tripletree,rome,0,0,0,128,92,37,croatian,0,larouste,1
+651,Independant,Independant,rome,0,0,0,92,72,37,croatian,0,larouste,1
+550,Independant,Independant,rome,1,0,0,69,83,37,croatian,0,larouste,1
+260,Independant,Independant,rome,0,1,0,99,90,37,croatian,0,larouste,1
+621,Independant,Independant,rome,1,0,0,71,37,37,croatian,0,larouste,1
+701,Yin Yang,8 Premium,rome,0,0,0,70,39,37,croatian,0,larouste,1
+293,Independant,Independant,rome,0,0,0,64,74,37,croatian,0,larouste,1
+469,Independant,Independant,rome,0,0,0,62,75,37,croatian,0,larouste,1
+668,Accar Hotels,Navatel,rome,0,0,0,94,71,37,croatian,0,larouste,1
+543,Yin Yang,Royal Lotus,rome,0,0,0,149,133,37,croatian,0,larouste,1
+850,Accar Hotels,Marcure,rome,0,1,0,156,120,37,croatian,0,larouste,1
+816,Independant,Independant,rome,0,0,0,67,34,37,croatian,0,larouste,1
+650,Yin Yang,8 Premium,rome,1,0,0,68,39,37,croatian,0,larouste,1
+897,Chillton Worldwide,Chill Garden Inn,rome,1,0,2,218,177,37,croatian,0,larouste,1
+824,Morriott International,Corlton,rome,0,0,0,212,171,37,croatian,0,larouste,1
+180,Accar Hotels,Ibas,rome,1,0,0,72,37,37,croatian,0,larouste,1
+636,Independant,Independant,rome,0,0,0,94,88,37,croatian,0,larouste,1
+144,Yin Yang,8 Premium,rome,0,0,0,73,40,37,croatian,0,larouste,1
+759,Yin Yang,Royal Lotus,rome,0,1,0,154,132,37,croatian,0,larouste,1
+714,Accar Hotels,Ibas,rome,0,0,0,71,37,37,croatian,0,larouste,1
+281,Boss Western,Boss Western,rome,1,0,0,92,70,37,croatian,0,larouste,1
+345,Independant,Independant,rome,1,0,0,133,68,37,croatian,0,larouste,1
+993,Yin Yang,Royal Lotus,rome,1,0,0,148,134,37,croatian,0,larouste,1
+486,Accar Hotels,Marcure,rome,0,0,0,149,126,37,croatian,0,larouste,1
+453,Chillton Worldwide,Chill Garden Inn,rome,0,0,2,207,178,37,croatian,0,larouste,1
+129,Boss Western,Boss Western,rome,0,0,0,90,70,37,croatian,0,larouste,1
+677,Accar Hotels,Marcure,rome,0,0,0,144,122,37,croatian,0,larouste,1
+552,Independant,Independant,rome,0,0,0,93,74,37,croatian,0,larouste,1
+206,Yin Yang,Royal Lotus,rome,0,0,0,151,134,37,croatian,0,larouste,1
+555,Yin Yang,Ardisson,rome,0,0,0,132,86,37,croatian,0,larouste,1
+773,Independant,Independant,rome,0,0,0,68,33,37,croatian,0,larouste,1
+913,Yin Yang,Ardisson,rome,0,1,0,146,80,37,croatian,0,larouste,1
+485,Independant,Independant,rome,0,0,0,68,36,37,croatian,0,larouste,1
+473,Chillton Worldwide,Chill Garden Inn,rome,0,0,0,215,174,37,croatian,0,larouste,1
+944,Accar Hotels,Safitel,rome,1,1,0,220,174,37,croatian,0,larouste,1
+843,Accar Hotels,Safitel,rome,0,0,0,207,174,37,croatian,0,larouste,1
+381,Independant,Independant,rome,0,0,0,124,71,37,croatian,0,larouste,1
+569,Boss Western,Boss Western,rome,1,0,0,92,73,37,croatian,0,larouste,1
+364,Yin Yang,Ardisson,rome,1,0,0,122,86,37,croatian,0,larouste,1
+440,Boss Western,Boss Western,rome,1,0,0,101,73,37,croatian,0,larouste,1
+316,Morriott International,Morriot,rome,0,1,0,154,122,37,croatian,0,larouste,1
+934,Accar Hotels,Ibas,rome,1,0,0,70,39,37,croatian,0,larouste,1
+774,Chillton Worldwide,Quadrupletree,rome,1,0,0,159,122,37,croatian,0,larouste,1
+380,Accar Hotels,Ibas,rome,0,0,0,72,35,37,croatian,0,larouste,1
+763,Accar Hotels,Navatel,rome,1,0,0,89,78,37,croatian,0,larouste,1
+347,Accar Hotels,Ibas,rome,1,0,0,76,37,37,croatian,0,larouste,1
+51,Boss Western,J.Halliday Inn,rome,1,0,0,124,86,37,croatian,0,larouste,1
+864,Boss Western,J.Halliday Inn,rome,1,0,0,125,94,37,croatian,0,larouste,1
+151,Accar Hotels,Safitel,rome,1,1,0,232,171,37,croatian,0,larouste,1
+874,Chillton Worldwide,Quadrupletree,rome,1,0,0,148,130,37,croatian,0,larouste,1
+399,Chillton Worldwide,Quadrupletree,rome,1,1,0,154,124,37,croatian,0,larouste,1
+328,Accar Hotels,Ibas,rome,0,0,0,65,37,37,croatian,0,larouste,1
+804,Chillton Worldwide,Tripletree,rome,1,0,0,130,84,37,croatian,0,larouste,1
+537,Accar Hotels,Marcure,rome,0,0,0,155,127,37,croatian,0,larouste,1
+396,Boss Western,Boss Western,rome,0,0,0,93,75,37,croatian,0,larouste,1
+728,Accar Hotels,Safitel,rome,0,1,0,208,174,37,croatian,0,larouste,1
+586,Yin Yang,Royal Lotus,rome,1,1,0,149,132,37,croatian,0,larouste,1
+739,Accar Hotels,Marcure,rome,1,0,0,157,124,37,croatian,0,larouste,1
+73,Yin Yang,Royal Lotus,rome,0,0,1,152,127,37,croatian,0,larouste,1
+48,Independant,Independant,rome,0,0,0,64,86,37,croatian,0,larouste,1
+386,Independant,Independant,rome,0,0,0,97,39,37,croatian,0,larouste,1
+786,Morriott International,Corlton,rome,1,0,0,205,170,37,croatian,0,larouste,1
+536,Boss Western,Boss Western,rome,0,0,0,99,74,37,croatian,0,larouste,1
+471,Yin Yang,Royal Lotus,rome,1,0,0,148,124,37,croatian,0,larouste,1
+321,Accar Hotels,Safitel,rome,0,0,0,228,177,37,croatian,0,larouste,1
+496,Independant,Independant,rome,0,0,0,62,125,37,croatian,0,larouste,1
+907,Chillton Worldwide,Tripletree,rome,0,0,0,139,91,37,croatian,0,larouste,1
+341,Boss Western,Boss Western,rome,0,0,0,94,65,37,croatian,0,larouste,1
+213,Independant,Independant,rome,0,1,0,94,70,37,croatian,0,larouste,1
+932,Independant,Independant,rome,0,0,0,128,73,37,croatian,0,larouste,1
+671,Boss Western,J.Halliday Inn,rome,1,0,0,132,92,37,croatian,0,larouste,1
+641,Boss Western,Boss Western,rome,1,0,0,96,69,37,croatian,0,larouste,1
+702,Chillton Worldwide,Quadrupletree,rome,0,1,0,163,127,37,croatian,0,larouste,1
+644,Independant,Independant,rome,1,0,0,69,80,37,croatian,0,larouste,1
+286,Accar Hotels,Navatel,rome,0,0,0,101,69,37,croatian,0,larouste,1
+929,Accar Hotels,Safitel,rome,1,0,0,217,181,37,croatian,0,larouste,1
+42,Morriott International,Morriot,rome,0,1,0,155,123,37,croatian,0,larouste,1
+906,Boss Western,J.Halliday Inn,rome,1,0,0,133,91,37,croatian,0,larouste,1
+437,Independant,Independant,rome,1,0,0,88,43,37,croatian,0,larouste,1
+796,Boss Western,J.Halliday Inn,rome,1,0,0,128,90,37,croatian,0,larouste,1
+838,Chillton Worldwide,Tripletree,rome,1,0,0,132,90,37,croatian,0,larouste,1
+112,Accar Hotels,Ibas,rome,0,0,0,72,34,37,croatian,0,larouste,1
+583,Accar Hotels,Ibas,rome,0,0,0,68,35,37,croatian,0,larouste,1
+686,Independant,Independant,rome,0,0,0,84,39,37,croatian,0,larouste,1
+947,Morriott International,CourtYord,rome,0,0,0,133,86,37,croatian,0,larouste,1
+489,Accar Hotels,Safitel,rome,0,1,0,224,167,37,croatian,0,larouste,1
+895,Accar Hotels,Safitel,rome,1,1,0,218,188,37,croatian,0,larouste,1
+642,Yin Yang,8 Premium,rome,1,0,0,68,40,37,croatian,0,larouste,1
+361,Boss Western,J.Halliday Inn,rome,0,0,0,131,84,37,croatian,0,larouste,1
+330,Morriott International,Corlton,rome,0,0,0,204,173,37,croatian,0,larouste,1
+787,Boss Western,Boss Western,rome,0,0,0,96,66,37,croatian,0,larouste,1
+696,Independant,Independant,rome,0,0,0,92,71,37,croatian,0,larouste,1
+270,Morriott International,Morriot,sofia,0,0,0,94,118,37,croatian,0,larouste,1
+302,Independant,Independant,sofia,0,0,0,60,94,37,croatian,0,larouste,1
+814,Accar Hotels,Safitel,sofia,0,0,0,131,178,37,croatian,0,larouste,1
+764,Independant,Independant,sofia,0,0,0,61,37,37,croatian,0,larouste,1
+590,Boss Western,J.Halliday Inn,sofia,0,0,0,80,99,37,croatian,0,larouste,1
+802,Independant,Independant,sofia,0,0,0,80,78,37,croatian,0,larouste,1
+542,Independant,Independant,sofia,0,0,0,65,69,37,croatian,0,larouste,1
+145,Morriott International,CourtYord,sofia,0,0,0,81,99,37,croatian,0,larouste,1
+544,Independant,Independant,sofia,1,0,0,61,37,37,croatian,0,larouste,1
+181,Yin Yang,Ardisson,sofia,0,0,0,82,102,37,croatian,0,larouste,1
+984,Independant,Independant,sofia,0,0,0,60,40,37,croatian,0,larouste,1
+601,Boss Western,Boss Western,sofia,1,0,0,57,70,37,croatian,0,larouste,1
+649,Accar Hotels,Safitel,sofia,1,1,0,135,194,37,croatian,0,larouste,1
+472,Independant,Independant,sofia,0,0,0,45,127,37,croatian,0,larouste,1
+304,Accar Hotels,Marcure,sofia,1,0,0,90,125,37,croatian,0,larouste,1
+262,Boss Western,J.Halliday Inn,sofia,1,0,0,80,88,37,croatian,0,larouste,1
+574,Independant,Independant,sofia,0,0,0,60,38,37,croatian,0,larouste,1
+578,Yin Yang,Royal Lotus,sofia,0,0,0,97,122,37,croatian,0,larouste,1
+899,Morriott International,CourtYord,sofia,0,0,0,83,86,37,croatian,0,larouste,1
+968,Chillton Worldwide,Quadrupletree,sofia,0,1,0,101,121,37,croatian,0,larouste,1
+416,Boss Western,J.Halliday Inn,sofia,1,0,0,85,90,37,croatian,0,larouste,1
+883,Chillton Worldwide,Quadrupletree,sofia,1,1,0,104,118,37,croatian,0,larouste,1
+107,Yin Yang,8 Premium,sofia,0,0,0,45,38,37,croatian,0,larouste,1
+337,Chillton Worldwide,Tripletree,sofia,0,0,0,83,95,37,croatian,0,larouste,1
+201,Chillton Worldwide,Tripletree,sofia,0,0,0,81,86,37,croatian,0,larouste,1
+597,Accar Hotels,Safitel,sofia,1,0,0,143,174,37,croatian,0,larouste,1
+208,Independant,Independant,sofia,0,0,0,65,36,37,croatian,0,larouste,1
+608,Chillton Worldwide,Tripletree,sofia,0,0,0,86,82,37,croatian,0,larouste,1
+137,Yin Yang,8 Premium,sofia,1,0,0,44,38,37,croatian,0,larouste,1
+862,Boss Western,Boss Western,sofia,1,0,0,61,72,37,croatian,0,larouste,1
+923,Independant,Independant,sofia,0,0,0,45,72,37,croatian,0,larouste,1
+383,Independant,Independant,sofia,1,0,0,43,94,37,croatian,0,larouste,1
+637,Independant,Independant,sofia,0,0,0,61,39,37,croatian,0,larouste,1
+190,Accar Hotels,Ibas,sofia,0,0,0,46,36,37,croatian,0,larouste,1
+665,Independant,Independant,sofia,0,0,0,59,65,37,croatian,0,larouste,1
+287,Morriott International,Corlton,sofia,1,1,0,136,179,37,croatian,0,larouste,1
+25,Chillton Worldwide,Chill Garden Inn,sofia,1,0,0,125,178,37,croatian,0,larouste,1
+554,Independant,Independant,sofia,0,0,0,45,92,37,croatian,0,larouste,1
+653,Chillton Worldwide,Quadrupletree,sofia,1,0,0,93,123,37,croatian,0,larouste,1
+272,Yin Yang,8 Premium,sofia,0,0,0,47,37,37,croatian,0,larouste,1
+203,Accar Hotels,Marcure,sofia,0,0,0,94,125,37,croatian,0,larouste,1
+109,Boss Western,J.Halliday Inn,sofia,0,0,0,84,89,37,croatian,0,larouste,1
+13,Independant,Independant,sofia,1,0,0,57,39,37,croatian,0,larouste,1
+470,Independant,Independant,sofia,0,0,0,62,72,37,croatian,0,larouste,1
+44,Yin Yang,8 Premium,sofia,0,0,0,44,34,37,croatian,0,larouste,1
+143,Boss Western,Boss Western,sofia,0,0,0,59,75,37,croatian,0,larouste,1
+871,Yin Yang,Ardisson,sofia,0,0,0,82,93,37,croatian,0,larouste,1
+553,Independant,Independant,sofia,1,0,0,94,40,37,croatian,0,larouste,1
+353,Yin Yang,8 Premium,sofia,1,0,0,44,40,37,croatian,0,larouste,1
+4,Independant,Independant,sofia,1,0,0,44,36,37,croatian,0,larouste,1
+815,Morriott International,Corlton,sofia,1,0,0,141,177,37,croatian,0,larouste,1
+459,Yin Yang,Ardisson,sofia,0,0,0,83,94,37,croatian,0,larouste,1
+141,Boss Western,J.Halliday Inn,sofia,1,0,0,88,88,37,croatian,0,larouste,1
+466,Yin Yang,Ardisson,valletta,1,0,0,130,93,37,croatian,0,larouste,1
+832,Independant,Independant,valletta,1,0,0,123,70,37,croatian,0,larouste,1
+643,Accar Hotels,Ibas,valletta,1,0,0,74,38,37,croatian,0,larouste,1
+377,Boss Western,J.Halliday Inn,valletta,1,0,0,127,94,37,croatian,0,larouste,1
+598,Boss Western,J.Halliday Inn,valletta,1,1,0,134,94,37,croatian,0,larouste,1
+371,Independant,Independant,valletta,0,0,0,92,75,37,croatian,0,larouste,1
+749,Independant,Independant,valletta,0,0,0,101,35,37,croatian,0,larouste,1
+985,Independant,Independant,valletta,1,0,0,68,76,37,croatian,0,larouste,1
+905,Yin Yang,Ardisson,valletta,0,0,0,127,100,37,croatian,0,larouste,1
+709,Independant,Independant,valletta,1,0,0,135,88,37,croatian,0,larouste,1
+859,Independant,Independant,valletta,0,0,0,132,78,37,croatian,0,larouste,1
+521,Accar Hotels,Ibas,valletta,1,0,0,67,40,37,croatian,0,larouste,1
+754,Accar Hotels,Safitel,valletta,1,0,0,229,175,37,croatian,0,larouste,1
+363,Boss Western,J.Halliday Inn,valletta,1,0,0,127,90,37,croatian,0,larouste,1
+719,Yin Yang,Royal Lotus,valletta,0,0,0,152,144,37,croatian,0,larouste,1
+718,Boss Western,J.Halliday Inn,valletta,0,0,0,132,88,37,croatian,0,larouste,1
+160,Independant,Independant,valletta,1,0,0,92,36,37,croatian,0,larouste,1
+237,Morriott International,CourtYord,valletta,1,0,0,137,87,37,croatian,0,larouste,1
+334,Yin Yang,8 Premium,valletta,0,0,0,76,39,37,croatian,0,larouste,1
+295,Yin Yang,8 Premium,valletta,0,0,0,70,36,37,croatian,0,larouste,1
+376,Accar Hotels,Marcure,valletta,0,0,0,159,128,37,croatian,0,larouste,1
+389,Accar Hotels,Navatel,valletta,0,0,0,98,69,37,croatian,0,larouste,1
+965,Boss Western,J.Halliday Inn,valletta,0,0,0,127,92,37,croatian,0,larouste,1
+491,Morriott International,Morriot,valletta,0,0,0,157,131,37,croatian,0,larouste,1
+861,Accar Hotels,Marcure,valletta,0,0,0,159,120,37,croatian,0,larouste,1
+360,Accar Hotels,Marcure,valletta,1,0,0,160,122,37,croatian,0,larouste,1
+639,Yin Yang,Royal Lotus,valletta,0,1,0,149,128,37,croatian,0,larouste,1
+501,Yin Yang,8 Premium,valletta,1,0,0,74,36,37,croatian,0,larouste,1
+504,Morriott International,Morriot,valletta,0,0,0,149,126,37,croatian,0,larouste,1
+55,Boss Western,Boss Western,valletta,1,0,0,100,68,37,croatian,0,larouste,1
+476,Independant,Independant,valletta,1,0,0,123,42,37,croatian,0,larouste,1
+400,Independant,Independant,valletta,0,0,0,89,84,37,croatian,0,larouste,1
+282,Yin Yang,Ardisson,valletta,0,0,0,126,85,37,croatian,0,larouste,1
+200,Boss Western,J.Halliday Inn,valletta,0,0,0,130,90,37,croatian,0,larouste,1
+404,Independant,Independant,valletta,0,0,0,133,36,37,croatian,0,larouste,1
+244,Accar Hotels,Safitel,valletta,1,1,0,235,167,37,croatian,0,larouste,1
+81,Boss Western,J.Halliday Inn,valletta,0,0,0,127,97,37,croatian,0,larouste,1
+512,Yin Yang,Royal Lotus,valletta,1,1,0,164,119,37,croatian,0,larouste,1
+592,Morriott International,Corlton,valletta,1,1,0,227,166,37,croatian,0,larouste,1
+988,Boss Western,J.Halliday Inn,valletta,1,0,0,128,86,37,croatian,0,larouste,1
+732,Accar Hotels,Marcure,valletta,0,0,0,160,134,37,croatian,0,larouste,1
+746,Yin Yang,Royal Lotus,valletta,1,1,1,148,121,37,croatian,0,larouste,1
+424,Chillton Worldwide,Quadrupletree,valletta,0,1,0,151,134,37,croatian,0,larouste,1
+325,Independant,Independant,valletta,0,0,0,96,37,37,croatian,0,larouste,1
+480,Independant,Independant,valletta,0,0,0,66,38,37,croatian,0,larouste,1
+635,Boss Western,Boss Western,vienna,1,0,0,97,77,37,croatian,0,larouste,1
+524,Morriott International,Morriot,vienna,0,0,0,173,128,37,croatian,0,larouste,1
+810,Boss Western,Boss Western,vienna,1,0,0,100,77,37,croatian,0,larouste,1
+613,Accar Hotels,Marcure,vienna,0,1,0,157,123,37,croatian,0,larouste,1
+210,Accar Hotels,Navatel,vienna,0,0,0,100,68,37,croatian,0,larouste,1
+610,Accar Hotels,Ibas,vienna,1,0,0,75,36,37,croatian,0,larouste,1
+996,Accar Hotels,Navatel,vienna,0,0,0,98,77,37,croatian,0,larouste,1
+919,Yin Yang,8 Premium,vienna,0,0,0,74,36,37,croatian,0,larouste,1
+57,Morriott International,CourtYord,vienna,1,0,0,151,92,37,croatian,0,larouste,1
+11,Chillton Worldwide,Quadrupletree,vienna,0,1,0,161,134,37,croatian,0,larouste,1
+666,Independant,Independant,vienna,1,0,0,77,76,37,croatian,0,larouste,1
+928,Accar Hotels,Ibas,vienna,0,0,0,79,39,37,croatian,0,larouste,1
+438,Independant,Independant,vienna,1,0,0,105,34,37,croatian,0,larouste,1
+943,Chillton Worldwide,Quadrupletree,vienna,0,0,0,181,122,37,croatian,0,larouste,1
+775,Yin Yang,8 Premium,vienna,1,0,0,80,35,37,croatian,0,larouste,1
+368,Independant,Independant,vienna,0,0,0,75,37,37,croatian,0,larouste,1
+179,Independant,Independant,vienna,0,0,0,110,73,37,croatian,0,larouste,1
+875,Independant,Independant,vienna,0,0,0,107,34,37,croatian,0,larouste,1
+64,Independant,Independant,vienna,0,1,0,79,72,37,croatian,0,larouste,1
+63,Boss Western,J.Halliday Inn,vienna,1,0,0,145,92,37,croatian,0,larouste,1
+511,Yin Yang,Royal Lotus,vienna,0,0,0,153,136,37,croatian,0,larouste,1
+266,Accar Hotels,Ibas,vienna,0,0,0,76,37,37,croatian,0,larouste,1
+343,Independant,Independant,vienna,0,0,0,76,39,37,croatian,0,larouste,1
+336,Boss Western,Boss Western,vienna,0,0,0,110,71,37,croatian,0,larouste,1
+226,Independant,Independant,vienna,1,0,0,101,73,37,croatian,0,larouste,1
+128,Accar Hotels,Marcure,vienna,0,1,0,171,123,37,croatian,0,larouste,1
+682,Independant,Independant,vienna,0,0,0,138,35,37,croatian,0,larouste,1
+979,Yin Yang,Ardisson,vienna,1,0,0,139,93,37,croatian,0,larouste,1
+704,Independant,Independant,vienna,0,0,0,105,36,37,croatian,0,larouste,1
+35,Yin Yang,8 Premium,vienna,0,0,0,79,38,37,croatian,0,larouste,1
+354,Independant,Independant,vienna,1,0,0,92,39,37,croatian,0,larouste,1
+37,Accar Hotels,Marcure,vienna,0,1,0,164,130,37,croatian,0,larouste,1
+403,Chillton Worldwide,Chill Garden Inn,vienna,0,1,1,254,172,37,croatian,0,larouste,1
+250,Chillton Worldwide,Chill Garden Inn,vienna,0,0,0,232,180,37,croatian,0,larouste,1
+924,Boss Western,J.Halliday Inn,vienna,1,0,0,136,91,37,croatian,0,larouste,1
+372,Accar Hotels,Navatel,vienna,0,0,0,93,69,37,croatian,0,larouste,1
+927,Morriott International,Morriot,vienna,0,1,0,166,125,37,croatian,0,larouste,1
+275,Boss Western,Boss Western,vienna,0,0,0,104,72,37,croatian,0,larouste,1
+535,Boss Western,J.Halliday Inn,vienna,0,0,0,138,96,37,croatian,0,larouste,1
+98,Boss Western,J.Halliday Inn,vienna,0,0,0,142,94,37,croatian,0,larouste,1
+184,Accar Hotels,Safitel,vienna,1,1,0,242,173,37,croatian,0,larouste,1
+646,Independant,Independant,vienna,0,0,0,107,70,37,croatian,0,larouste,1
+263,Boss Western,Boss Western,vienna,1,0,0,104,77,37,croatian,0,larouste,1
+801,Chillton Worldwide,Quadrupletree,vienna,1,1,0,171,122,37,croatian,0,larouste,1
+675,Independant,Independant,vienna,1,0,0,102,36,37,croatian,0,larouste,1
+877,Independant,Independant,vienna,1,0,0,79,37,37,croatian,0,larouste,1
+713,Accar Hotels,Marcure,vienna,0,0,0,164,122,37,croatian,0,larouste,1
+692,Morriott International,Corlton,vienna,0,0,0,235,196,37,croatian,0,larouste,1
+26,Accar Hotels,Marcure,vienna,1,0,0,159,123,37,croatian,0,larouste,1
+462,Independant,Independant,vienna,1,0,0,79,37,37,croatian,0,larouste,1
+755,Yin Yang,8 Premium,vienna,1,0,0,75,38,37,croatian,0,larouste,1
+931,Yin Yang,Royal Lotus,vienna,0,1,0,169,127,37,croatian,0,larouste,1
+672,Morriott International,Morriot,vienna,1,0,0,166,125,37,croatian,0,larouste,1
+426,Boss Western,Boss Western,vienna,0,0,0,98,72,37,croatian,0,larouste,1
+255,Morriott International,Morriot,vienna,0,0,0,164,122,37,croatian,0,larouste,1
+239,Chillton Worldwide,Chill Garden Inn,vienna,1,1,0,253,172,37,croatian,0,larouste,1
+753,Boss Western,J.Halliday Inn,vienna,1,0,0,143,98,37,croatian,0,larouste,1
+70,Morriott International,Morriot,vienna,1,1,0,164,130,37,croatian,0,larouste,1
+565,Chillton Worldwide,Chill Garden Inn,vienna,1,0,0,247,177,37,croatian,0,larouste,1
+220,Independant,Independant,vienna,1,0,0,70,79,37,croatian,0,larouste,1
+977,Accar Hotels,Navatel,vienna,0,0,0,110,68,37,croatian,0,larouste,1
+428,Boss Western,Boss Western,vienna,1,0,0,101,83,37,croatian,0,larouste,1
+382,Yin Yang,Ardisson,vienna,1,0,0,140,89,37,croatian,0,larouste,1
+15,Morriott International,Corlton,vienna,1,0,2,245,187,37,croatian,0,larouste,1
+626,Boss Western,Boss Western,vienna,0,0,0,103,73,37,croatian,0,larouste,1
+699,Boss Western,Boss Western,vienna,1,0,0,110,68,37,croatian,0,larouste,1
+87,Morriott International,Morriot,vienna,0,1,0,160,139,37,croatian,0,larouste,1
+8,Boss Western,Boss Western,vienna,1,0,0,101,72,37,croatian,0,larouste,1
+168,Morriott International,Corlton,vienna,1,1,0,241,180,37,croatian,0,larouste,1
+245,Independant,Independant,vienna,0,0,0,132,41,37,croatian,0,larouste,1
+784,Independant,Independant,vienna,0,0,0,105,67,37,croatian,0,larouste,1
+662,Morriott International,Morriot,vienna,0,0,0,164,126,37,croatian,0,larouste,1
+268,Boss Western,Boss Western,vienna,0,0,0,104,73,37,croatian,0,larouste,1
+920,Independant,Independant,vienna,0,0,0,101,72,37,croatian,0,larouste,1
+730,Morriott International,Morriot,vienna,0,0,1,165,134,37,croatian,0,larouste,1
+33,Chillton Worldwide,Tripletree,vienna,0,0,0,135,88,37,croatian,0,larouste,1
+530,Independant,Independant,vienna,1,0,0,99,39,37,croatian,0,larouste,1
+848,Chillton Worldwide,Quadrupletree,vienna,1,0,0,164,139,37,croatian,0,larouste,1
+171,Independant,Independant,vienna,0,0,0,69,67,37,croatian,0,larouste,1
+457,Independant,Independant,vienna,1,0,0,139,36,37,croatian,0,larouste,1
+846,Accar Hotels,Marcure,vienna,0,1,0,161,125,37,croatian,0,larouste,1
+940,Yin Yang,Ardisson,vienna,1,0,0,144,82,37,croatian,0,larouste,1
+195,Independant,Independant,vienna,0,0,0,139,38,37,croatian,0,larouste,1
+652,Boss Western,Boss Western,vienna,1,0,0,97,72,37,croatian,0,larouste,1
+839,Yin Yang,Royal Lotus,vienna,0,0,0,165,128,37,croatian,0,larouste,1
+661,Accar Hotels,Navatel,vienna,1,0,0,98,73,37,croatian,0,larouste,1
+167,Accar Hotels,Ibas,vienna,1,0,0,78,35,37,croatian,0,larouste,1
+549,Independant,Independant,vienna,0,0,0,100,39,37,croatian,0,larouste,1
+173,Independant,Independant,vienna,0,0,0,104,71,37,croatian,0,larouste,1
+890,Yin Yang,8 Premium,vienna,1,0,0,78,36,37,croatian,0,larouste,1
+236,Yin Yang,8 Premium,vienna,0,0,0,76,32,37,croatian,0,larouste,1
+219,Morriott International,Morriot,vienna,0,1,0,157,122,37,croatian,0,larouste,1
+833,Morriott International,CourtYord,vienna,1,0,1,147,86,37,croatian,0,larouste,1
+116,Independant,Independant,vienna,0,0,0,99,37,37,croatian,0,larouste,1
+693,Morriott International,Corlton,vienna,1,1,0,235,187,37,croatian,0,larouste,1
+456,Yin Yang,Ardisson,vienna,1,0,0,134,92,37,croatian,0,larouste,1
+315,Chillton Worldwide,Chill Garden Inn,vienna,0,1,0,245,176,37,croatian,0,larouste,1
+152,Chillton Worldwide,Quadrupletree,vienna,0,1,0,159,142,37,croatian,0,larouste,1
+125,Independant,Independant,vilnius,0,0,0,56,36,37,croatian,0,larouste,1
+954,Chillton Worldwide,Tripletree,vilnius,1,0,0,111,90,37,croatian,0,larouste,1
+161,Boss Western,J.Halliday Inn,vilnius,1,0,0,112,100,37,croatian,0,larouste,1
+976,Independant,Independant,vilnius,0,0,0,81,37,37,croatian,0,larouste,1
+215,Independant,Independant,vilnius,1,0,0,74,34,37,croatian,0,larouste,1
+502,Boss Western,Boss Western,vilnius,0,0,0,82,72,37,croatian,0,larouste,1
+533,Morriott International,Morriot,vilnius,1,1,0,126,120,37,croatian,0,larouste,1
+247,Chillton Worldwide,Quadrupletree,vilnius,1,0,0,131,125,37,croatian,0,larouste,1
+356,Independant,Independant,vilnius,0,0,0,76,94,37,croatian,0,larouste,1
+813,Boss Western,J.Halliday Inn,vilnius,0,0,0,115,85,37,croatian,0,larouste,1
+667,Boss Western,J.Halliday Inn,vilnius,1,0,0,103,91,37,croatian,0,larouste,1
+355,Independant,Independant,vilnius,1,0,0,81,80,37,croatian,0,larouste,1
+84,Accar Hotels,Safitel,vilnius,0,1,0,180,181,37,croatian,0,larouste,1
+623,Morriott International,Corlton,vilnius,0,1,0,174,173,37,croatian,0,larouste,1
+887,Boss Western,J.Halliday Inn,vilnius,0,0,0,104,88,37,croatian,0,larouste,1
+545,Chillton Worldwide,Tripletree,vilnius,0,0,0,117,87,37,croatian,0,larouste,1
+47,Accar Hotels,Marcure,vilnius,1,0,0,122,130,37,croatian,0,larouste,1
+503,Morriott International,Corlton,vilnius,0,1,0,173,190,37,croatian,0,larouste,1
+687,Chillton Worldwide,Tripletree,vilnius,0,0,0,105,90,37,croatian,0,larouste,1
+61,Morriott International,Corlton,vilnius,1,1,0,171,177,37,croatian,0,larouste,1
+409,Accar Hotels,Navatel,vilnius,1,0,0,82,74,37,croatian,0,larouste,1
+74,Boss Western,J.Halliday Inn,vilnius,0,0,1,113,88,37,croatian,0,larouste,1
+765,Independant,Independant,vilnius,0,0,0,59,38,37,croatian,0,larouste,1
+104,Independant,Independant,vilnius,0,0,0,58,70,37,croatian,0,larouste,1
+819,Yin Yang,Royal Lotus,vilnius,0,0,0,122,136,37,croatian,0,larouste,1
+183,Accar Hotels,Marcure,vilnius,1,1,0,125,137,37,croatian,0,larouste,1
+76,Yin Yang,8 Premium,vilnius,0,0,0,58,35,37,croatian,0,larouste,1
+40,Boss Western,J.Halliday Inn,vilnius,0,0,0,109,94,37,croatian,0,larouste,1
+654,Yin Yang,Royal Lotus,vilnius,0,1,0,132,123,37,croatian,0,larouste,1
+59,Boss Western,J.Halliday Inn,vilnius,1,0,0,109,91,37,croatian,0,larouste,1
+568,Independant,Independant,vilnius,0,0,0,81,80,37,croatian,0,larouste,1
+118,Boss Western,Boss Western,vilnius,1,0,0,83,72,37,croatian,0,larouste,1
+935,Yin Yang,8 Premium,vilnius,0,0,0,61,36,37,croatian,0,larouste,1
+551,Yin Yang,8 Premium,vilnius,1,0,0,60,35,37,croatian,0,larouste,1
+406,Independant,Independant,vilnius,0,0,0,54,35,37,croatian,0,larouste,1
+198,Boss Western,J.Halliday Inn,vilnius,0,0,0,105,90,37,croatian,0,larouste,1
+593,Independant,Independant,vilnius,0,0,0,58,75,37,croatian,0,larouste,1
+451,Independant,Independant,vilnius,1,0,0,104,95,37,croatian,0,larouste,1
+448,Yin Yang,Ardisson,vilnius,0,0,0,104,88,37,croatian,0,larouste,1
+461,Independant,Independant,vilnius,1,0,0,55,79,37,croatian,0,larouste,1
+589,Independant,Independant,vilnius,0,0,1,58,40,37,croatian,0,larouste,1
+974,Chillton Worldwide,Tripletree,vilnius,1,0,0,106,88,37,croatian,0,larouste,1
+956,Boss Western,Boss Western,vilnius,1,0,0,82,66,37,croatian,0,larouste,1
+19,Independant,Independant,vilnius,0,0,0,57,35,37,croatian,0,larouste,1
+516,Morriott International,Corlton,vilnius,1,0,2,178,190,37,croatian,0,larouste,1
+340,Independant,Independant,vilnius,0,0,0,72,39,37,croatian,0,larouste,1
+187,Accar Hotels,Marcure,vilnius,1,1,0,126,146,37,croatian,0,larouste,1
+914,Yin Yang,8 Premium,vilnius,0,0,0,57,36,37,croatian,0,larouste,1
+740,Yin Yang,Ardisson,vilnius,0,0,0,106,92,37,croatian,0,larouste,1
+520,Independant,Independant,vilnius,1,0,0,81,37,37,croatian,0,larouste,1
+80,Morriott International,Corlton,vilnius,1,1,0,181,183,37,croatian,0,larouste,1
+177,Accar Hotels,Marcure,vilnius,0,1,0,128,122,37,croatian,0,larouste,1
+498,Boss Western,Boss Western,vilnius,0,0,0,78,73,37,croatian,0,larouste,1
+490,Yin Yang,Ardisson,vilnius,1,0,0,107,87,37,croatian,0,larouste,1
+5,Yin Yang,Royal Lotus,vilnius,0,1,0,123,134,37,croatian,0,larouste,1
+607,Boss Western,J.Halliday Inn,vilnius,0,0,0,114,84,37,croatian,0,larouste,1
+72,Independant,Independant,vilnius,0,0,0,56,36,37,croatian,0,larouste,1
+794,Morriott International,Corlton,vilnius,1,0,0,197,175,37,croatian,0,larouste,1
+879,Boss Western,J.Halliday Inn,vilnius,0,0,0,111,96,37,croatian,0,larouste,1
+632,Independant,Independant,vilnius,1,0,0,76,38,37,croatian,0,larouste,1
+362,Accar Hotels,Navatel,vilnius,1,0,0,79,70,37,croatian,0,larouste,1
+820,Yin Yang,Royal Lotus,vilnius,0,0,0,126,126,37,croatian,0,larouste,1
+136,Boss Western,Boss Western,vilnius,0,0,0,81,69,37,croatian,0,larouste,1
+294,Independant,Independant,vilnius,1,0,0,60,38,37,croatian,0,larouste,1
+240,Yin Yang,Royal Lotus,vilnius,0,0,2,137,132,37,croatian,0,larouste,1
+221,Independant,Independant,vilnius,1,0,0,54,40,37,croatian,0,larouste,1
+204,Independant,Independant,vilnius,1,0,0,56,36,37,croatian,0,larouste,1
+89,Independant,Independant,vilnius,0,0,0,74,68,37,croatian,0,larouste,1
+670,Independant,Independant,vilnius,1,0,0,75,36,37,croatian,0,larouste,1
+408,Morriott International,CourtYord,vilnius,1,0,0,105,90,37,croatian,0,larouste,1
+881,Morriott International,Morriot,vilnius,0,1,0,131,132,37,croatian,0,larouste,1
+320,Morriott International,CourtYord,vilnius,0,0,0,114,92,37,croatian,0,larouste,1
+896,Independant,Independant,vilnius,0,0,0,57,68,37,croatian,0,larouste,1
+189,Boss Western,J.Halliday Inn,vilnius,0,0,0,103,97,37,croatian,0,larouste,1
+955,Yin Yang,8 Premium,vilnius,0,0,0,57,36,37,croatian,0,larouste,1
+217,Yin Yang,Royal Lotus,vilnius,1,0,0,123,136,37,croatian,0,larouste,1
+678,Independant,Independant,vilnius,0,0,0,78,78,37,croatian,0,larouste,1
+950,Independant,Independant,vilnius,1,0,0,72,36,37,croatian,0,larouste,1
+155,Boss Western,Boss Western,vilnius,0,0,0,77,72,37,croatian,0,larouste,1
+394,Independant,Independant,vilnius,1,0,0,54,85,37,croatian,0,larouste,1
+279,Independant,Independant,vilnius,1,0,0,53,37,37,croatian,0,larouste,1
+18,Yin Yang,8 Premium,vilnius,0,0,0,51,40,37,croatian,0,larouste,1
+758,Accar Hotels,Ibas,vilnius,0,0,0,60,38,37,croatian,0,larouste,1
+605,Yin Yang,Royal Lotus,vilnius,1,0,0,127,126,37,croatian,0,larouste,1
+620,Chillton Worldwide,Quadrupletree,vilnius,0,1,0,128,128,37,croatian,0,larouste,1
+464,Accar Hotels,Navatel,vilnius,1,0,0,76,71,37,croatian,0,larouste,1
