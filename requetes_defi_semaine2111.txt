@@ -1,0 +1,426 @@
+TRIO LANGUE - VILLE - MOBILE
+
+LANGUAGE =  austrian (date 30-40)
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  8.24 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  1.95 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  2.17 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  belgian (date 10-20)
+CITY =  paris
+MOBILE =  1
+Nombre pour le dataset de test =  30.72 %
+Nombre pour le dataset des requêtes =  0.00 %
+CITY =  rome
+MOBILE =  1
+Nombre pour le dataset de test =  5.88 %
+Nombre pour le dataset des requêtes =  0.00 %
+CITY =  sofia
+MOBILE =  1
+Nombre pour le dataset de test =  1.96 %
+Nombre pour le dataset des requêtes =  0.00 %
+CITY =  vienna
+MOBILE =  1
+Nombre pour le dataset de test =  2.61 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  bulgarian (date 10-20)
+
+CITY =  amsterdam
+MOBILE =  0
+Nombre pour le dataset de test =  5.90 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  madrid 
+MOBILE =  0
+Nombre pour le dataset de test =  12.08 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  12.64 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  paris
+MOBILE =  0
+Nombre pour le dataset de test =  9.55 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  rome
+MOBILE =  0
+Nombre pour le dataset de test =  8.99 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  2.25 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  sofia
+MOBILE =  0
+Nombre pour le dataset de test =  2.53 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  1
+Nombre pour le dataset de test =  11.80 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  croatian  (date 5-15, 30-40)
+
+CITY =  madrid
+MOBILE =  1
+Nombre pour le dataset de test =  20.79 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  paris
+MOBILE =  1
+Nombre pour le dataset de test =  11.88 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  1.98 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vienna
+MOBILE =  1
+Nombre pour le dataset de test =  23.76 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  danish  (date 15-20)
+
+CITY =  amsterdam
+MOBILE =  0
+Nombre pour le dataset de test =  9.83 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  4.05 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  madrid
+MOBILE =  0
+Nombre pour le dataset de test =  8.96 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  10.12 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  paris
+MOBILE =  0
+Nombre pour le dataset de test =  6.65 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  rome
+MOBILE =  0
+Nombre pour le dataset de test =  7.23 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  sofia
+MOBILE =  0
+Nombre pour le dataset de test =  4.34 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  2.89 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vienna
+MOBILE =  1
+Nombre pour le dataset de test =  6.94 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  1
+Nombre pour le dataset de test =  3.47 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  dutch  (date 0-10, 25-35)
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  2.24 %
+Nombre pour le dataset des requêtes =  0.00 %
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  6.72 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  finnish (date 0-10)
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  4.08 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  1
+Nombre pour le dataset de test =  3.86 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  german (date 0-10)
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  5.00 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  8.75 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  3.75 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  0.00 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  greek (date 0-10,30-40)
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  4.97 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  10.50 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+LANGUAGE =  hungarian (date 0-10)
+
+MOBILE =  0
+Nombre pour le dataset de test =  4.34 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  3.93 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  3.00 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  1.34 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  3.62 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  3.41 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  italian (date 0-10)
+
+CITY =  copenhagen
+MOBILE =  1
+Nombre pour le dataset de test =  7.81 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  1
+Nombre pour le dataset de test =  2.34 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  latvian (date 30-40)
+
+CITY =  sofia
+MOBILE =  0
+Nombre pour le dataset de test =  6.19 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  6.19 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vienna
+MOBILE =  0
+Nombre pour le dataset de test =  7.08 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  7.08 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  6.19 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  7.96 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  lithuanian (date 0-10)
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  11.48 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  1.64 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  2.46 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+
+LANGUAGE =  maltese (date 0-5)
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  6.09 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  3.55 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  5.08 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  14.21 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  polish (date 0-20)
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  7.63 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  14.50 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  portuguese (date 0-10)
+
+CITY =  sofia
+MOBILE =  1
+Nombre pour le dataset de test =  11.43 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  10.00 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vienna
+MOBILE =  1
+Nombre pour le dataset de test =  5.71 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  1
+Nombre pour le dataset de test =  12.86 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  romanian (date 0-10)
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  2.28 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  11.39 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  madrid
+MOBILE =  0
+Nombre pour le dataset de test =  2.96 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  7.97 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  2.28 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  2.28 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+
+LANGUAGE =  slovene (date 0-5)
+
+CITY =  amsterdam
+MOBILE =  0
+Nombre pour le dataset de test =  14.37 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  14.37 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  copenhagen
+MOBILE =  0
+Nombre pour le dataset de test =  5.75 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  5.17 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  madrid
+MOBILE =  0
+Nombre pour le dataset de test =  20.11 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  0
+Nombre pour le dataset de test =  2.30 %
+Nombre pour le dataset des requêtes =  0.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  2.30 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+LANGUAGE =  swedish  (date 0-5)
+
+CITY =  copenhagen
+MOBILE =  1
+Nombre pour le dataset de test =  7.92 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  valletta
+MOBILE =  1
+Nombre pour le dataset de test =  1.73 %
+Nombre pour le dataset des requêtes =  0.00 %
+
+CITY =  vilnius
+MOBILE =  0
+Nombre pour le dataset de test =  5.45 %
+Nombre pour le dataset des requêtes =  5.00 %
+MOBILE =  1
+Nombre pour le dataset de test =  5.45 %
+Nombre pour le dataset des requêtes =  0.00 %
+----------------------------------
+
+
