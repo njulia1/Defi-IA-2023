@@ -24,7 +24,7 @@ To run the code, you need to follow the instructions below:
 2. Clone the Github repository : `git clone https://github.com/njulia1/Defi-IA-2023.git `
 3. Go to the repository: `cd Defi-IA-2023`
 4. Download the pre-trained model (a bit long, so take): `wget 'https://filesender.renater.fr/download.php?token=8aaf1fbe-c8b4-4041-9901-c7825e275ec5&files_ids=20724435' -O model/model.pkl`
-   (Link for downloading the model (to put in a folder called 'model') : https://filesender.renater.fr/download.php?token=8aaf1fbe-c8b4-4041-9901-c7825e275ec5&files_ids=20724435' -O model/model.pkl)
+   (Link for downloading the model (to put in a folder called 'model') : https://filesender.renater.fr/download.php?token=8aaf1fbe-c8b4-4041-9901-c7825e275ec5&files_ids=20724435')
 5. Create the docker image: `sudo docker build -t image1 ./docker`
 6. Create a docker container in which we clone the whole Github: `sudo docker run -it --name container1 image1`
 7. Exit the container: `exit`
