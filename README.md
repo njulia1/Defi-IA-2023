@@ -3,8 +3,8 @@ This repository contains all codes, data and information regarding the AI challe
 
 This github contains the following files:
 
-- "Descriptive Analysis.ipynb" which introduce the features of our dataset.
-- "train.py" which allows to train a random Forest or a Boosting model.
+- `data_analysis.ipynb` which introduce the features of our dataset, and performs a preliminary analysis on the data
+- `train.py` which allows to train a random Forest or a Boosting model.
 - "Adversarial Validation.ipynb" containing the code we used to check the similary between our trainset and the test set of Kaggle.
 - "Interpretability.ipynb" which helps us to understand the most importance features of our model.
 
