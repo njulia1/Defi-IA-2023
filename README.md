@@ -28,7 +28,7 @@ To run the code, you need to follow the instructions below:
 5. Create the docker image: `sudo docker build -t image1 ./docker`
 6. Create a docker container in which we clone the whole Github: `sudo docker run -it --name container1 image1`
 7. Exit the container: `exit`
-8. Copy the Github into the container: `docker cp . container1:/ia/`
+8. Copy the Github into the container: `sudo docker cp . container1:/ia/`
 9. Start the container: `sudo docker start container1`
 10. Go to the container: `sudo docker attach container1`
 11. Go to the 'ia' folder: `cd ia`
@@ -41,6 +41,7 @@ From there, you have two options:
    To launch the code on the optimized dataset for Random Forest algorithm, use the command: `python3 ./train.py --data 'data/data_improved.csv' --model 1`
 2. you can also launch the gradio application : `python3 gradio_app.py`
 
+If you have Docker on your computer, you might not need to use `sudo` at the beginning of each line, but only `docker`
 ## Additional codes and instructions
 
 The adversarial validation has also been implemented. To launch this code for the whole dataset, copy the following instruction:
