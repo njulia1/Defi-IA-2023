@@ -43,6 +43,11 @@ From there, you have two options:
 2. you can also launch the gradio application : `python3 gradio_app.py`
 
 If you have Docker on your computer, you might not need to use `sudo` at the beginning of each line, but only `docker`
+
+## Remove a container or an image
+If you want to delete a container, use the following command: `sudo docker container rm -f container1`
+If you want to delete an image, use the following command : `sudo docker image rm image1 --force`
+
 ## Additional codes and instructions
 
 The adversarial validation has also been implemented. To launch this code for the whole dataset, copy the following instruction:
