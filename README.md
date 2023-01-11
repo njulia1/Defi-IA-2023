@@ -26,7 +26,7 @@ To run the code, you need to follow the instructions below:
 4. Create a folder model : `mkdir model`
 5. Download the pre-trained model in the folder model (a bit long, so you can directly click the link below): `wget 'https://filesender.renater.fr/download.php?token=8aaf1fbe-c8b4-4041-9901-c7825e275ec5&files_ids=20724435' -O model/model.pkl`
    (Link for downloading the model (to put in a folder called 'model') : https://filesender.renater.fr/download.php?token=8aaf1fbe-c8b4-4041-9901-c7825e275ec5&files_ids=20724435')
-5. Create the docker image: `sudo docker build -t image1 ./docker`
+5. Open Docker Desktop (if you use it). Create the docker image: `sudo docker build -t image1 ./docker`
 6. Create a docker container in which we clone the whole Github: `sudo docker run -it --name container1 image1`
 7. Exit the container: `exit`
 8. Copy the Github into the container: `sudo docker cp . container1:/ia/`
